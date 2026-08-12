@@ -7,6 +7,22 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "https://aigeo.games/articles/geo-special-166/",
+      "url": "https://aigeo.games/articles/geo-special-166/",
+      "title": "当营销负责人回答不了这三个问题，GEO 提案就过不了预算审批",
+      "content_text": "TransUnion 对 100 位营销负责人的调查，给所有做 GEO 提案的人提了一个醒：AI 搜索的测量盲区，和当年围墙花园（walled garden）的测量缺口几乎一样。Facebook、Google Ads 这些封闭广告系统曾经让品牌方无法验证预算的真实效果，如今同样的不确定性正在 AI 搜索领域重演。",
+      "date_published": "2026-08-12T07:00:56.232Z",
+      "date_modified": "2026-08-12T07:00:56.232Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-165/",
+      "url": "https://aigeo.games/articles/geo-special-165/",
+      "title": "新产品如何打破 AI 搜索冷启动循环",
+      "content_text": "企业级软件新品上线后，最常见的困境是：官网做好了，内容也发了，但 AI 搜索就是不推荐。Perplexity 里搜不到，ChatGPT 不引用，Google AI Overviews 里也没有位置。没有推荐就没有流量，没有流量就没有讨论，没有讨论 AI 继续无视。这个循环卡住了大量预算有限的新产品团队。",
+      "date_published": "2026-08-12T03:31:25.490Z",
+      "date_modified": "2026-08-12T03:31:25.490Z"
+    },
+    {
       "id": "https://aigeo.games/articles/geo-special-164/",
       "url": "https://aigeo.games/articles/geo-special-164/",
       "title": "董事会说“SEO已死”，你真正需要准备的是这份证据链",
@@ -229,22 +245,6 @@
       "content_text": "母婴育儿作者页不是“关于我”的装饰页，而是搜索引擎和 AI 搜索判断一个人是否真实、专业、值得信任的关键证据页。一个能被正确识别的作者页，应当至少包含五类可交叉验证的信息：可溯源的实名身份、界定清楚的专业范围与执业边界、能独立核验的贡献记录、来自第三方渠道的外部佐证，以及持续更新的利益关系披露。这五类信息彼此印证，才能...",
       "date_published": "2026-08-06T05:15:32.311Z",
       "date_modified": "2026-08-06T05:15:32.311Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/beauty-38/",
-      "url": "https://aigeo.games/articles/beauty-38/",
-      "title": "美妆个护如何建立可核查的信任证据",
-      "content_text": "美妆个护网站的信任感，不来自漂亮的品牌故事，而来自一组能经得起外部核验的证据。这些证据按优先级排列：企业主体与备案/许可信息、生产与检测过程记录、有边界的前后对比与用户评价、可链接到官方标准的功效依据。四层构成一条证据链，检验标准只有一条：消费者能否在官网之外找到独立来源，核实你发布的每一项宣称。配方细节与客户隐私，则...",
-      "date_published": "2026-08-06T05:11:36.108Z",
-      "date_modified": "2026-08-06T05:11:36.108Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/food-38/",
-      "url": "https://aigeo.games/articles/food-38/",
-      "title": "餐饮食品真实问题池怎么建：别只靠关键词工具",
-      "content_text": "餐饮食品做SEO和GEO，最怕用关键词工具猜用户想什么。关键词工具给你的是\"词\"，不是问题；而搜索优化能不能见效，恰恰取决于你有没有把用户真实问出的话收集起来。真实问题池应该从客服记录、销售沟通、站内搜索日志和定期访谈里来，关键词工具只做验证和补全。先按菜品、场景和决策阶段把高频问题整理成可复用池子，再转成页面、FAQ...",
-      "date_published": "2026-08-06T05:04:36.477Z",
-      "date_modified": "2026-08-06T05:04:36.477Z"
     }
   ]
 }

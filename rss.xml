@@ -5,6 +5,20 @@
     <link>https://aigeo.games</link>
     <description>天行GEO长期研究中文 GEO、SEO 与 AI 搜索优化，重点写作主源建设、FAQ 体系、案例证据链、服务页设计、结构化数据与内容知识库。</description>
     <item>
+      <title>当营销负责人回答不了这三个问题，GEO 提案就过不了预算审批</title>
+      <link>https://aigeo.games/articles/geo-special-166/</link>
+      <description>TransUnion 对 100 位营销负责人的调查，给所有做 GEO 提案的人提了一个醒：AI 搜索的测量盲区，和当年围墙花园（walled garden）的测量缺口几乎一样。Facebook、Google Ads 这些封闭广告系统曾经让品牌方无法验证预算的真实效果，如今同样的不确定性正在 AI 搜索领域重演。</description>
+      <pubDate>Wed, 12 Aug 2026 07:00:56 GMT</pubDate>
+      <guid>https://aigeo.games/articles/geo-special-166/</guid>
+    </item>
+    <item>
+      <title>新产品如何打破 AI 搜索冷启动循环</title>
+      <link>https://aigeo.games/articles/geo-special-165/</link>
+      <description>企业级软件新品上线后，最常见的困境是：官网做好了，内容也发了，但 AI 搜索就是不推荐。Perplexity 里搜不到，ChatGPT 不引用，Google AI Overviews 里也没有位置。没有推荐就没有流量，没有流量就没有讨论，没有讨论 AI 继续无视。这个循环卡住了大量预算有限的新产品团队。</description>
+      <pubDate>Wed, 12 Aug 2026 03:31:25 GMT</pubDate>
+      <guid>https://aigeo.games/articles/geo-special-165/</guid>
+    </item>
+    <item>
       <title>董事会说“SEO已死”，你真正需要准备的是这份证据链</title>
       <link>https://aigeo.games/articles/geo-special-164/</link>
       <description>“SEO已死”的论调每隔几年就会卷土重来，这次轮到AI搜索当借口。但事实是，搜索行为没有消失，只是入口和呈现方式在变。Google官方文档明确将AEO/GEO视为强SEO实践的收益，而AI搜索引擎仍然依赖内容质量、结构化数据和实体清晰度来生成答案。你需要做的不是争论SEO是否还活着，而是用GEO（生成式引擎优化）重新定...</description>
@@ -129,20 +143,6 @@
       <description>先给结论：预算有限时，不要同时改首页、几十篇文章和所有平台。更稳妥的做法，是选择一个问题簇、三到五个页面和四周观察窗口，先验证页面改造、抓取发现、问题覆盖和有效行动是否连得起来。</description>
       <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
       <guid>https://aigeo.games/articles/shitu-geo-112/</guid>
-    </item>
-    <item>
-      <title>结构化数据上线后怎么验证：把代码存在、内容一致和搜索表现分开检查</title>
-      <link>https://aigeo.games/articles/geo-special-151/</link>
-      <description>先给结论：结构化数据验证至少分三层：生产页面源码是否输出、字段是否与可见内容一致、搜索平台是否识别并展示。只看到 JSON-LD 代码，不能说明结构化数据有效，更不能说明一定获得富结果或排名提升。</description>
-      <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
-      <guid>https://aigeo.games/articles/geo-special-151/</guid>
-    </item>
-    <item>
-      <title>AI搜索品牌监测怎么做：从问题采样到引用核查的实操记录表</title>
-      <link>https://aigeo.games/articles/shitu-geo-111/</link>
-      <description>先给结论：AI 搜索监测不是每天随便问几个问题，然后只记出现或不出现。可复盘的监测需要固定问题集、记录字段、采样周期，并把品牌出现、事实准确、引用来源和竞争品牌分开记录。</description>
-      <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
-      <guid>https://aigeo.games/articles/shitu-geo-111/</guid>
     </item>
   </channel>
 </rss>

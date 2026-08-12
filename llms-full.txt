@@ -22,7 +22,9 @@
 ## 专题与文章
 ### GEO专题
 URL: https://aigeo.games/columns/geo-special/
-文章数: 159
+文章数: 161
+- 当营销负责人回答不了这三个问题，GEO 提案就过不了预算审批: https://aigeo.games/articles/geo-special-166/
+- 新产品如何打破 AI 搜索冷启动循环: https://aigeo.games/articles/geo-special-165/
 - 董事会说“SEO已死”，你真正需要准备的是这份证据链: https://aigeo.games/articles/geo-special-164/
 - 过期 Google 员工账号被接管：AI 搜索时代的权威信号漏洞与品牌应对: https://aigeo.games/articles/geo-special-163/
 - 排名工具显示第一，真实搜索却找不到你：长尾词排名追踪的真相: https://aigeo.games/articles/geo-special-162/

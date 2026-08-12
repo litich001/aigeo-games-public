@@ -1,0 +1,250 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "天行GEO",
+  "home_page_url": "https://aigeo.games/",
+  "feed_url": "https://aigeo.games/feed.json",
+  "description": "天行GEO长期研究中文 GEO、SEO 与 AI 搜索优化，重点写作主源建设、FAQ 体系、案例证据链、服务页设计、结构化数据与内容知识库。",
+  "language": "zh-CN",
+  "items": [
+    {
+      "id": "https://aigeo.games/articles/geo-special-164/",
+      "url": "https://aigeo.games/articles/geo-special-164/",
+      "title": "董事会说“SEO已死”，你真正需要准备的是这份证据链",
+      "content_text": "“SEO已死”的论调每隔几年就会卷土重来，这次轮到AI搜索当借口。但事实是，搜索行为没有消失，只是入口和呈现方式在变。Google官方文档明确将AEO/GEO视为强SEO实践的收益，而AI搜索引擎仍然依赖内容质量、结构化数据和实体清晰度来生成答案。你需要做的不是争论SEO是否还活着，而是用GEO（生成式引擎优化）重新定...",
+      "date_published": "2026-08-11T13:58:33.681Z",
+      "date_modified": "2026-08-11T13:58:33.681Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-163/",
+      "url": "https://aigeo.games/articles/geo-special-163/",
+      "title": "过期 Google 员工账号被接管：AI 搜索时代的权威信号漏洞与品牌应对",
+      "content_text": "一个搜索引擎索引服务商接管了 Google 员工 Martin Splitt 的过期 X 账号，并开始用这个账号推广自己的服务。这件事在 SEO 圈子里传开时，多数人把它当作一则轶闻。但对品牌运营者来说，它暴露了一个更实际的问题：AI 搜索正在把社交账号的权威性纳入答案生成依据，而一个无人维护的过期账号，可能成为他人借...",
+      "date_published": "2026-08-11T13:46:49.435Z",
+      "date_modified": "2026-08-11T13:46:49.435Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-162/",
+      "url": "https://aigeo.games/articles/geo-special-162/",
+      "title": "排名工具显示第一，真实搜索却找不到你：长尾词排名追踪的真相",
+      "content_text": "一个做演示工具网站的站长在Reddit的r/SEO板块发帖：排名追踪工具报告他的网站slideator.com在“Record & Stream Online Presentations”这个查询上排名Google第一，理由是标题标签里包含了完全一致的短语。但他在真实浏览器里翻了三页，都没找到自己的网站。",
+      "date_published": "2026-08-11T03:15:36.536Z",
+      "date_modified": "2026-08-11T03:15:36.536Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-161/",
+      "url": "https://aigeo.games/articles/geo-special-161/",
+      "title": "Google 替换你的 Meta Title 和 Description，不是惩罚，是信号",
+      "content_text": "你在 Google Search Console 里看到自己精心写的 Meta Title 被换成了别的文案，第一反应通常是：我是不是被惩罚了？网站是不是出问题了？",
+      "date_published": "2026-08-10T03:21:07.362Z",
+      "date_modified": "2026-08-10T03:21:07.362Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-160/",
+      "url": "https://aigeo.games/articles/geo-special-160/",
+      "title": "Gen Z 把 Claude 和 OpenAI 当消费品牌，但信任度只有 28%：GEO 策略该如何调整？",
+      "content_text": "Gen Z 对 AI 助手的品牌认知正在快速提升，但信任度远未跟上。YouGov 数据显示，Claude 和 OpenAI 在 Gen Z 群体中的考虑度在过去一年翻倍，而美国用户对 AI 助手的整体信任度仅为 28%。这个落差意味着，品牌在 AI 搜索中被提及只是第一步，能否被信任并最终被引用，取决于你能否在内容中建...",
+      "date_published": "2026-08-09T03:10:19.922Z",
+      "date_modified": "2026-08-09T03:10:19.922Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-159/",
+      "url": "https://aigeo.games/articles/geo-special-159/",
+      "title": "谷歌排名波动、Reddit 传闻与高管变动：GEO 视角下的应对逻辑",
+      "content_text": "最近搜索圈不太平。谷歌两周内出现两次未确认的排名更新，Reddit 特殊优待的传闻被官方否认，搜索业务高管层又有大动作。几件事叠在一起，不少网站运营者开始焦虑：是不是又要变天了？",
+      "date_published": "2026-08-08T09:37:29.762Z",
+      "date_modified": "2026-08-08T09:37:29.762Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-158/",
+      "url": "https://aigeo.games/articles/geo-special-158/",
+      "title": "“How did you get scammed?”：Reddit 热帖背后，SEO/GEO 服务为何总被误判为骗局",
+      "content_text": "Reddit r/SEO 上有个帖子问“How did you get scammed?”，底下涌进来大量用户分享被代理商坑的经历。翻完几百条回复会发现，真正被坑的人有，但更多人说的“没结果”，其实建立在模糊预期上——没定基线、没约定周期、没要求可验证的交付物。",
+      "date_published": "2026-08-08T09:11:24.565Z",
+      "date_modified": "2026-08-08T09:11:24.565Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-157/",
+      "url": "https://aigeo.games/articles/geo-special-157/",
+      "title": "AI搜索越来越像新战场，但GEO仍然要从扎实的SEO基础开始",
+      "content_text": "很多团队第一次看到 AI 搜索、答案引擎和大模型引用时，会以为 GEO 是一套完全替代 SEO 的新技术。更准确的判断是：搜索入口变了，用户期待的答案形态变了，但内容能否被发现、理解、验证和持续访问，仍然依赖网站最基本的搜索基础设施。",
+      "date_published": "2026-08-08T08:06:32.280Z",
+      "date_modified": "2026-08-08T08:06:32.280Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/shitu-geo-116/",
+      "url": "https://aigeo.games/articles/shitu-geo-116/",
+      "title": "GEO线索归因：如何判断业务增长里有多少来自AI搜索",
+      "content_text": "评估GEO对业务转化的影响，不能只看最后一次点击来自哪里。正确做法是建立一套多触点证据链：从着陆页行为、查询意图、品牌提及变化、咨询记录到辅助转化，逐层交叉验证，才能区分GEO的真实贡献与自然搜索、品牌效应、付费广告之间的重叠。本文给出可落地的归因框架，帮助你判断哪些线索确实由GEO驱动，哪些只是巧合。",
+      "date_published": "2026-08-08T03:02:32.612Z",
+      "date_modified": "2026-08-08T03:02:32.612Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-156/",
+      "url": "https://aigeo.games/articles/geo-special-156/",
+      "title": "案例页如何提升GEO可见度与信任度：一份可核查的证据链写法",
+      "content_text": "在GEO（生成式引擎优化）的语境下，案例页的核心作用不是展示“我们有多强”，而是为AI搜索和用户提供一套可核查、可推理、可引用的证据链。空洞的“行业领先”“效果显著”在AI摘要中毫无价值，甚至会被判定为低质量内容；真正能加分的是过程证据、前后对比、约束边界与经验教训。本文给出案例页的实战写法，帮助你将其转化为AI搜索和...",
+      "date_published": "2026-08-07T04:06:36.784Z",
+      "date_modified": "2026-08-07T04:06:36.784Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/shitu-geo-114/",
+      "url": "https://aigeo.games/articles/shitu-geo-114/",
+      "title": "搜索需求怎么变成文章选题：用意图、页面角色和证据做一张选题表",
+      "content_text": "先给结论：选题不是把关键词换几个说法，而是把用户问题拆成他想完成什么、需要哪种证据、最后要去哪个页面。一张合格的选题表应记录问题、意图、页面角色、主承接页、证据来源和更新责任。",
+      "date_published": "2026-08-07T00:58:58.529Z",
+      "date_modified": "2026-08-07T01:09:11.607Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-155/",
+      "url": "https://aigeo.games/articles/geo-special-155/",
+      "title": "GEO文章发布前检查什么：一份面向搜索和AI理解的十分钟清单",
+      "content_text": "先给结论：发布前检查的重点不是再塞几个关键词，而是确认文章直接回答问题、证据可核查、页面有下一步、技术信号完整。固定清单能减少文章写完却不能用的情况。",
+      "date_published": "2026-08-07T00:58:50.454Z",
+      "date_modified": "2026-08-07T01:09:11.601Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/shitu-geo-115/",
+      "url": "https://aigeo.games/articles/shitu-geo-115/",
+      "title": "多平台AI搜索内容怎么分工：同一事实统一，表达方式按场景调整",
+      "content_text": "先给结论：多平台内容不应该复制粘贴，也不应该为每个平台编造不同事实。统一的是品牌主体、服务范围、证据和更新时间；可以调整的是问题表达、页面结构、案例深度和用户下一步。",
+      "date_published": "2026-08-07T00:58:50.453Z",
+      "date_modified": "2026-08-07T01:09:11.610Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-154/",
+      "url": "https://aigeo.games/articles/geo-special-154/",
+      "title": "GEO季度复盘看哪些指标：不要只看品牌出现率",
+      "content_text": "先给结论：季度复盘应同时看技术可见性、问题覆盖、回答准确性、引用质量、自然搜索行为和有效咨询。品牌出现率只能说明一种观察结果，不能单独证明流量、信任或成交增长。",
+      "date_published": "2026-08-07T00:58:50.449Z",
+      "date_modified": "2026-08-07T01:09:11.599Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-153/",
+      "url": "https://aigeo.games/articles/geo-special-153/",
+      "title": "官网证据页怎么写给采购核查：把服务承诺拆成可验证字段",
+      "content_text": "先给结论：面向采购、老板或高客单客户的官网证据页，不应只展示口号和案例标题。它需要让读者快速核查服务对象、交付范围、方法、边界、数据口径、时间节点和责任人。",
+      "date_published": "2026-08-07T00:58:50.444Z",
+      "date_modified": "2026-08-07T01:09:11.598Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/shitu-geo-113/",
+      "url": "https://aigeo.games/articles/shitu-geo-113/",
+      "title": "AI搜索没有品牌怎么办：按抓取、实体、证据和竞争四层排查",
+      "content_text": "先给结论：AI 搜索没有提到品牌，不应马上归因于关键词不够多。应按四层排查：页面是否能被发现和读取、品牌实体是否定义清楚、页面是否提供证据、竞争页面是否更完整。",
+      "date_published": "2026-08-07T00:58:50.442Z",
+      "date_modified": "2026-08-07T01:09:11.605Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-152/",
+      "url": "https://aigeo.games/articles/geo-special-152/",
+      "title": "GEO内容日历怎么排：按搜索意图和页面角色安排季度主题",
+      "content_text": "先给结论：GEO 内容日历不应只是每周发几篇文章。更有效的排法，是先列真实问题，再为每个问题分配定义页、方法页、FAQ、案例页和服务页等角色，最后按用户决策顺序安排发布。",
+      "date_published": "2026-08-07T00:58:50.439Z",
+      "date_modified": "2026-08-07T01:09:11.595Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/shitu-geo-112/",
+      "url": "https://aigeo.games/articles/shitu-geo-112/",
+      "title": "GEO小预算试点怎么做：用四周实验验证页面改造是否值得扩大",
+      "content_text": "先给结论：预算有限时，不要同时改首页、几十篇文章和所有平台。更稳妥的做法，是选择一个问题簇、三到五个页面和四周观察窗口，先验证页面改造、抓取发现、问题覆盖和有效行动是否连得起来。",
+      "date_published": "2026-08-07T00:58:50.436Z",
+      "date_modified": "2026-08-07T01:09:11.604Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-151/",
+      "url": "https://aigeo.games/articles/geo-special-151/",
+      "title": "结构化数据上线后怎么验证：把代码存在、内容一致和搜索表现分开检查",
+      "content_text": "先给结论：结构化数据验证至少分三层：生产页面源码是否输出、字段是否与可见内容一致、搜索平台是否识别并展示。只看到 JSON-LD 代码，不能说明结构化数据有效，更不能说明一定获得富结果或排名提升。",
+      "date_published": "2026-08-07T00:58:50.431Z",
+      "date_modified": "2026-08-07T01:09:11.592Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/shitu-geo-111/",
+      "url": "https://aigeo.games/articles/shitu-geo-111/",
+      "title": "AI搜索品牌监测怎么做：从问题采样到引用核查的实操记录表",
+      "content_text": "先给结论：AI 搜索监测不是每天随便问几个问题，然后只记出现或不出现。可复盘的监测需要固定问题集、记录字段、采样周期，并把品牌出现、事实准确、引用来源和竞争品牌分开记录。",
+      "date_published": "2026-08-07T00:58:50.429Z",
+      "date_modified": "2026-08-07T01:09:11.602Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-150/",
+      "url": "https://aigeo.games/articles/geo-special-150/",
+      "title": "GEO项目怎么验收：用页面证据、覆盖率和线索质量建立可复盘标准",
+      "content_text": "先给结论：GEO 项目不能只用某次 AI 回答有没有提到品牌来验收。更稳妥的做法，是同时检查页面可抓取、问题覆盖、回答准确和商业行动，并为每一层留下时间点与数据来源。",
+      "date_published": "2026-08-07T00:58:50.427Z",
+      "date_modified": "2026-08-07T01:09:11.585Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-142/",
+      "url": "https://aigeo.games/articles/geo-special-142/",
+      "title": "案例页的GEO价值：从宣传单到可核查的证据链",
+      "content_text": "案例页对GEO（生成式引擎优化）的价值，不在于堆砌“效果显著”“客户满意”这类形容词，而在于能否为AI搜索引擎和真实用户提供一条可核查、可推理、可引用的证据链。一个合格的案例页，应当像一份实验报告：有背景、有基线、有动作、有数据、有边界，而不是一张只有结论的宣传单页。",
+      "date_published": "2026-08-06T11:00:06.058Z",
+      "date_modified": "2026-08-06T11:00:06.058Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/shitu-geo-108/",
+      "url": "https://aigeo.games/articles/shitu-geo-108/",
+      "title": "GEO知识库：GEO带来的线索怎么归因，才不会把功劳算错",
+      "content_text": "评估GEO对业务转化的影响，核心不在于看最后一次点击来自哪里，而在于建立一套多维证据链：着陆页行为、查询意图、品牌提及、咨询记录和辅助转化共同构成归因依据。只盯最后点击，会系统性低估GEO在用户决策早期的作用；完全不看数据，又会把品牌广告和自然搜索的功劳误算给GEO。本文给出可落地的归因框架，帮你分清真实贡献。",
+      "date_published": "2026-08-06T11:00:05.818Z",
+      "date_modified": "2026-08-06T11:00:05.818Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/flowers-38/",
+      "url": "https://aigeo.games/articles/flowers-38/",
+      "title": "鲜花园艺网站如何建立可核查的信任证据",
+      "content_text": "鲜花园艺网站的信任建设，核心是公开四类可核查的证据：真实经营主体与联系方式、可追溯的服务案例、有出处的专业内容、明确划定的隐私边界。这四类证据构成一条能被搜索引擎和大模型交叉验证的证据链，用户下单前有据可查，AI引用时也更倾向于选择这类来源。",
+      "date_published": "2026-08-06T05:33:59.747Z",
+      "date_modified": "2026-08-06T05:33:59.747Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/coffee-37/",
+      "url": "https://aigeo.games/articles/coffee-37/",
+      "title": "咖啡茶饮网站的结构化数据，先按主实体选类型",
+      "content_text": "选择 Schema 类型，不能按“咖啡茶饮行业”这个标签去套模板，而要根据每个页面的真实内容与核心意图来判断。品牌官网首页用 Organization，商品销售页用 Product，培训、租赁、团购服务页用 Service，行业文章用 Article，页面有真实可见的问答才用 FAQPage，全站加 Breadcrum...",
+      "date_published": "2026-08-06T05:30:05.059Z",
+      "date_modified": "2026-08-06T05:30:05.059Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/lifestyle-38/",
+      "url": "https://aigeo.games/articles/lifestyle-38/",
+      "title": "生活服务内容中的数据和效果承诺怎么合规表达",
+      "content_text": "生活服务网站想避免夸大数据与效果承诺，核心不是把数字从页面上抹掉，而是把“98%满意”“行业第一”“0失败”这类模糊口号，改写成口径清晰、来源可查、标明统计时间与适用边界、并有人定期复核的公开事实。这既是为了降低广告法与平台规则的处罚风险，也是为了让AI搜索引擎在信息比对中更容易把你判定为可信来源。",
+      "date_published": "2026-08-06T05:27:01.650Z",
+      "date_modified": "2026-08-06T05:27:01.650Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/home-living-36/",
+      "url": "https://aigeo.games/articles/home-living-36/",
+      "title": "家居网站从搜索到咨询，页面层级怎么搭",
+      "content_text": "家居生活网站的搜索入口很多，但内容和决策对不上。用户搜“什么是全屋定制”，被带到服务页；搜“儿童房地板哪种好”，看不到参数对比；搜“某公司全屋定制怎么样”，找不到可验证案例。跳出率高、咨询少，通常不是内容不够，而是页面之间没有形成一条从认知到转化的路径。",
+      "date_published": "2026-08-06T05:21:28.156Z",
+      "date_modified": "2026-08-06T05:21:28.156Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/mother-baby-38/",
+      "url": "https://aigeo.games/articles/mother-baby-38/",
+      "title": "母婴育儿作者页怎么建立可信实体：身份、范围与证据链",
+      "content_text": "母婴育儿作者页不是“关于我”的装饰页，而是搜索引擎和 AI 搜索判断一个人是否真实、专业、值得信任的关键证据页。一个能被正确识别的作者页，应当至少包含五类可交叉验证的信息：可溯源的实名身份、界定清楚的专业范围与执业边界、能独立核验的贡献记录、来自第三方渠道的外部佐证，以及持续更新的利益关系披露。这五类信息彼此印证，才能...",
+      "date_published": "2026-08-06T05:15:32.311Z",
+      "date_modified": "2026-08-06T05:15:32.311Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/beauty-38/",
+      "url": "https://aigeo.games/articles/beauty-38/",
+      "title": "美妆个护如何建立可核查的信任证据",
+      "content_text": "美妆个护网站的信任感，不来自漂亮的品牌故事，而来自一组能经得起外部核验的证据。这些证据按优先级排列：企业主体与备案/许可信息、生产与检测过程记录、有边界的前后对比与用户评价、可链接到官方标准的功效依据。四层构成一条证据链，检验标准只有一条：消费者能否在官网之外找到独立来源，核实你发布的每一项宣称。配方细节与客户隐私，则...",
+      "date_published": "2026-08-06T05:11:36.108Z",
+      "date_modified": "2026-08-06T05:11:36.108Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/food-38/",
+      "url": "https://aigeo.games/articles/food-38/",
+      "title": "餐饮食品真实问题池怎么建：别只靠关键词工具",
+      "content_text": "餐饮食品做SEO和GEO，最怕用关键词工具猜用户想什么。关键词工具给你的是\"词\"，不是问题；而搜索优化能不能见效，恰恰取决于你有没有把用户真实问出的话收集起来。真实问题池应该从客服记录、销售沟通、站内搜索日志和定期访谈里来，关键词工具只做验证和补全。先按菜品、场景和决策阶段把高频问题整理成可复用池子，再转成页面、FAQ...",
+      "date_published": "2026-08-06T05:04:36.477Z",
+      "date_modified": "2026-08-06T05:04:36.477Z"
+    }
+  ]
+}

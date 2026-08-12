@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-07",
+  "description": "按真实搜索问题、页面角色和证据来源维护的 GEO 内容需求矩阵。planned 项目不代表已有页面或搜索量保证。",
+  "entries": [
+    {
+      "intent": "验收",
+      "query": "GEO项目怎么验收",
+      "title": "GEO项目怎么验收：用页面证据、覆盖率和线索质量建立可复盘标准",
+      "columnSlug": "geo-special",
+      "articleSlug": "geo-special-150",
+      "funnelStage": "评估/决策",
+      "targetPage": "/articles/geo-special-150/",
+      "priority": "P0",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "监测",
+      "query": "AI搜索品牌监测怎么做",
+      "title": "AI搜索品牌监测怎么做：从问题采样到引用核查的实操记录表",
+      "columnSlug": "shitu-geo",
+      "articleSlug": "shitu-geo-111",
+      "funnelStage": "评估/决策",
+      "targetPage": "/articles/shitu-geo-111/",
+      "priority": "P0",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "验证",
+      "query": "结构化数据上线后怎么验证",
+      "title": "结构化数据上线后怎么验证：把代码存在、内容一致和搜索表现分开检查",
+      "columnSlug": "geo-special",
+      "articleSlug": "geo-special-151",
+      "funnelStage": "评估/决策",
+      "targetPage": "/articles/geo-special-151/",
+      "priority": "P0",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "试点",
+      "query": "GEO小预算试点怎么做",
+      "title": "GEO小预算试点怎么做：用四周实验验证页面改造是否值得扩大",
+      "columnSlug": "shitu-geo",
+      "articleSlug": "shitu-geo-112",
+      "funnelStage": "评估/决策",
+      "targetPage": "/articles/shitu-geo-112/",
+      "priority": "P0",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "规划",
+      "query": "GEO内容日历怎么排",
+      "title": "GEO内容日历怎么排：按搜索意图和页面角色安排季度主题",
+      "columnSlug": "geo-special",
+      "articleSlug": "geo-special-152",
+      "funnelStage": "认知/评估",
+      "targetPage": "/articles/geo-special-152/",
+      "priority": "P1",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "诊断",
+      "query": "AI搜索没有品牌怎么办",
+      "title": "AI搜索没有品牌怎么办：按抓取、实体、证据和竞争四层排查",
+      "columnSlug": "shitu-geo",
+      "articleSlug": "shitu-geo-113",
+      "funnelStage": "评估/决策",
+      "targetPage": "/articles/shitu-geo-113/",
+      "priority": "P0",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "证据",
+      "query": "官网证据页怎么写给采购核查",
+      "title": "官网证据页怎么写给采购核查：把服务承诺拆成可验证字段",
+      "columnSlug": "geo-special",
+      "articleSlug": "geo-special-153",
+      "funnelStage": "评估/决策",
+      "targetPage": "/articles/geo-special-153/",
+      "priority": "P0",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "选题",
+      "query": "搜索需求怎么变成文章选题",
+      "title": "搜索需求怎么变成文章选题：用意图、页面角色和证据做一张选题表",
+      "columnSlug": "shitu-geo",
+      "articleSlug": "shitu-geo-114",
+      "funnelStage": "认知/评估",
+      "targetPage": "/articles/shitu-geo-114/",
+      "priority": "P1",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "复盘",
+      "query": "GEO季度复盘看哪些指标",
+      "title": "GEO季度复盘看哪些指标：不要只看品牌出现率",
+      "columnSlug": "geo-special",
+      "articleSlug": "geo-special-154",
+      "funnelStage": "认知/评估",
+      "targetPage": "/articles/geo-special-154/",
+      "priority": "P1",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "分工",
+      "query": "多平台AI搜索内容怎么分工",
+      "title": "多平台AI搜索内容怎么分工：同一事实统一，表达方式按场景调整",
+      "columnSlug": "shitu-geo",
+      "articleSlug": "shitu-geo-115",
+      "funnelStage": "认知/评估",
+      "targetPage": "/articles/shitu-geo-115/",
+      "priority": "P1",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "编辑",
+      "query": "GEO文章发布前检查什么",
+      "title": "GEO文章发布前检查什么：一份面向搜索和AI理解的十分钟清单",
+      "columnSlug": "geo-special",
+      "articleSlug": "geo-special-155",
+      "funnelStage": "认知/评估",
+      "targetPage": "/articles/geo-special-155/",
+      "priority": "P1",
+      "status": "published",
+      "evidence": [
+        "页面审计",
+        "问题采样",
+        "发布记录"
+      ]
+    },
+    {
+      "intent": "成本",
+      "query": "GEO项目长期维护成本怎么估算",
+      "title": "GEO项目长期维护成本怎么估算",
+      "columnSlug": "shitu-geo",
+      "articleSlug": null,
+      "funnelStage": "决策",
+      "targetPage": null,
+      "priority": "P2",
+      "status": "planned",
+      "evidence": [
+        "待收集报价",
+        "维护工时",
+        "更新频率"
+      ]
+    }
+  ]
+}

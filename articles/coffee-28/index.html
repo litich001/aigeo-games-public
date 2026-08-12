@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题 | 咖啡行业 | 天行GEO</title>
+    <meta name="description" content="内容优质但搜索引擎不抓取，通常不是内容本身的问题，而是技术链路上某个环节被阻断。排查应按状态码→robots.txt→canonical→sitemap→内链→渲染→服务器日志的顺序逐层进行，每层都有明确的检查工具和修复动作。以下是一套可直接操作的排查流程。本文围绕“咖啡茶饮网站内容优质却不被抓取？按这7步排" />
+    <meta name="keywords" content="天行GEO,李哲,GEO,SEO,AI搜索优化,生成式引擎优化,GEO论文,AI搜索,FAQ,案例解析,服务方案,知识库" />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <meta name="theme-color" content="#eef6fb" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta name="twitter:title" content="咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题 | 咖啡行业 | 天行GEO" />
+    <meta name="twitter:description" content="内容优质但搜索引擎不抓取，通常不是内容本身的问题，而是技术链路上某个环节被阻断。排查应按状态码→robots.txt→canonical→sitemap→内链→渲染→服务器日志的顺序逐层进行，每层都有明确的检查工具和修复动作。以下是一套可直接操作的排查流程。本文围绕“咖啡茶饮网站内容优质却不被抓取？按这7步排" />
+    <meta name="twitter:image" content="https://aigeo.games/media/feature/author-geo-expert-desk.png" />
+    <meta name="twitter:image:alt" content="咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题 social image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="天行GEO" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:title" content="咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题 | 咖啡行业 | 天行GEO" />
+    <meta property="og:description" content="内容优质但搜索引擎不抓取，通常不是内容本身的问题，而是技术链路上某个环节被阻断。排查应按状态码→robots.txt→canonical→sitemap→内链→渲染→服务器日志的顺序逐层进行，每层都有明确的检查工具和修复动作。以下是一套可直接操作的排查流程。本文围绕“咖啡茶饮网站内容优质却不被抓取？按这7步排" />
+    <meta property="og:url" content="https://aigeo.games/articles/coffee-28/" />
+    <meta property="og:image" content="https://aigeo.games/media/feature/author-geo-expert-desk.png" />
+    <meta property="og:image:alt" content="咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题 social image" />
+    <meta property="article:published_time" content="2026-07-28T04:40:34.511Z" />
+    <meta property="article:modified_time" content="2026-07-28T04:40:34.511Z" />
+    <meta property="article:section" content="行业GEO" />
+    <link rel="canonical" href="https://aigeo.games/articles/coffee-28/" />
+    <link rel="prev" href="https://aigeo.games/articles/coffee-29/" />
+    <link rel="next" href="https://aigeo.games/articles/coffee-27/" />
+    <link rel="alternate" type="application/rss+xml" title="Tianxing GEO RSS" href="../../rss.xml" />
+    <link rel="icon" type="image/svg+xml" href="../../media/brand/tianxing-geo-icon.svg" />
+    <link rel="apple-touch-icon" href="../../media/brand/tianxing-geo-icon.svg" />
+        <meta name="baidu-site-verification" content="codeva-iJW2nl7dEB" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-W9FL5WNT7Y"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-W9FL5WNT7Y");
+    </script>
+    <script>
+      (function () {
+        try {
+          document.documentElement.dataset.theme = localStorage.getItem("aigeo-site-theme-v2") || "ocean";
+        } catch (error) {
+          document.documentElement.dataset.theme = "ocean";
+        }
+      })();
+    </script>
+    <link rel="stylesheet" href="../../styles.css?v=20260614-password-ttl" />
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题","description":"内容优质但搜索引擎不抓取，通常不是内容本身的问题，而是技术链路上某个环节被阻断。排查应按状态码→robots.txt→canonical→sitemap→内链→渲染→服务器日志的顺序逐层进行，每层都有明确的检查工具和修复动作。以下是一套可直接操作的排查流程。本文围绕“咖啡茶饮网站内容优质却不被抓取？按这7步排","datePublished":"2026-07-28T04:40:34.511Z","dateModified":"2026-07-28T04:40:34.511Z","image":["https://aigeo.games/media/feature/author-geo-expert-desk.png"],"articleSection":"行业GEO","keywords":"天行GEO,李哲,GEO,SEO,AI搜索优化,生成式引擎优化,GEO论文,AI搜索,FAQ,案例解析,服务方案,知识库,行业GEO,咖啡行业","mainEntityOfPage":"https://aigeo.games/articles/coffee-28/","publisher":{"@type":"Organization","name":"天行GEO","url":"https://aigeo.games/about.html","logo":{"@type":"ImageObject","url":"https://aigeo.games/media/brand/tianxing-geo-logo.svg"},"sameAs":["https://aigeo.games/about.html","https://lizhe.work/"]},"author":{"@type":"Organization","name":"咖啡行业"},"inLanguage":"zh-CN","isAccessibleForFree":true}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://aigeo.games/"},{"@type":"ListItem","position":2,"name":"咖啡行业","item":"https://aigeo.games/columns/coffee/"},{"@type":"ListItem","position":3,"name":"咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题","item":"https://aigeo.games/articles/coffee-28/"}]}</script>
+
+  </head>
+  <body data-base-path="../../" data-article-slug="coffee-28" class="page-article">
+
+    <header class="site-header">
+      <div class="container topbar">
+        <a class="brand" href="../../index.html" aria-label="天行GEO">
+          <span class="brand-lockup">
+            <img class="brand-mark" src="../../media/brand/tianxing-geo-icon.svg" alt="天行GEO图标" loading="eager" />
+            <img class="brand-wordmark" src="../../media/brand/tianxing-geo-logo.svg" alt="天行GEO" loading="eager" />
+          </span>
+          <span class="brand-copy-fallback">
+            <strong id="site-name">天行GEO</strong>
+            <span id="site-tagline">中文 GEO / SEO / AI 搜索优化知识库</span>
+          </span>
+        </a>
+        <nav class="header-nav" id="site-nav">
+          <a id="home-link" href="../../index.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 4h7v7H4V4Zm9 0h7v7h-7V4ZM4 13h7v7H4v-7Zm9 0h7v7h-7v-7Z"/></svg></span><span>首页</span></a>
+          <a id="knowledge-link" href="../../columns/shitu-geo/index.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span><span>GEO知识库</span></a>
+          <a id="geo-link" href="../../columns/geo-special/index.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M10.5 3a7.5 7.5 0 1 1 4.717 13.332l4.225 4.226-1.414 1.414-4.226-4.225A7.5 7.5 0 0 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11Z"/></svg></span><span>GEO专题</span></a>
+          <a id="research-link" href="../../research.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm2 4v2h8V8H8Zm0 4v2h8v-2H8Zm0 4v2h5v-2H8Z"/></svg></span><span>论文资料</span></a>
+          <a id="services-link" href="../../services.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M9 3h6v2h2.5A2.5 2.5 0 0 1 20 7.5V10h2v4h-2v2.5A2.5 2.5 0 0 1 17.5 19H15v2H9v-2H6.5A2.5 2.5 0 0 1 4 16.5V14H2v-4h2V7.5A2.5 2.5 0 0 1 6.5 5H9V3Zm-1 4a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H8Zm2 2h4v6h-4V9Z"/></svg></span><span>服务方案</span></a>
+          <a id="cases-link" href="../../cases.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm2 4v2h8V8H8Zm0 4v2h8v-2H8Zm0 4v2h5v-2H8Z"/></svg></span><span>案例解析</span></a>
+          <a id="about-link" href="../../about.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.3 3.3a1 1 0 0 1 1.4 0l2 2a1 1 0 0 1 0 1.4l-9.8 9.8-4.3.8.8-4.3 9.9-9.7ZM5 19h14v2H5z"/></svg></span><span>关于作者</span></a>
+          <a id="recent-link" href="../../index.html#recent"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 1 1 0 20a10 10 0 0 1 0-20Zm1 5h-2v6l4 2l.9-1.8l-2.9-1.45V7Z"/></svg></span><span>最近更新</span></a>
+        </nav>
+        <div class="header-utility">
+          <button class="header-search-button header-utility-button" type="button" id="theme-switcher" aria-label="切换配色" title="切换配色"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 3C6.477 3 2 6.806 2 11.5S5.925 20 10 20h1a2 2 0 1 0 0-4h-.5A1.5 1.5 0 0 1 9 14.5c0-.828.672-1.5 1.5-1.5H13c4.971 0 9-3.134 9-7s-4.477-7-10-7Zm-5 8a1.5 1.5 0 1 1 0-3a1.5 1.5 0 0 1 0 3Zm4-4a1.5 1.5 0 1 1 .001 3.001A1.5 1.5 0 0 1 11 7Zm4 2a1.5 1.5 0 1 1 .001 3.001A1.5 1.5 0 0 1 15 9Zm4 0a1.5 1.5 0 1 1 .001 3.001A1.5 1.5 0 0 1 19 9Z"/></svg></span><span>配色</span></button>
+          <button class="header-search-button header-utility-button" type="button" id="global-search-button" data-open-search><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M10.5 3a7.5 7.5 0 1 1 4.717 13.332l4.225 4.226-1.414 1.414-4.226-4.225A7.5 7.5 0 0 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11Z"/></svg></span><span>搜索</span></button>
+          <button class="mobile-nav-toggle" type="button" id="mobile-nav-toggle" aria-expanded="false" aria-controls="site-nav"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 4h7v7H4V4Zm9 0h7v7h-7V4ZM4 13h7v7H4v-7Zm9 0h7v7h-7v-7Z"/></svg></span><span>菜单</span></button>
+        </div>
+      </div>
+    </header>
+    <div class="mobile-nav-backdrop" id="mobile-nav-backdrop" aria-hidden="true"></div>
+
+    <main class="container page-shell">
+      <div class="shell-layout">
+
+    <aside class="global-sidebar" id="global-sidebar">
+      <div class="sidebar-panel">
+        <div class="sidebar-title"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 4h7v7H4V4Zm9 0h7v7h-7V4ZM4 13h7v7H4v-7Zm9 0h7v7h-7v-7Z"/></svg></span><span>专题导航</span></div>
+        <nav class="sidebar-nav">
+
+                <a class="sidebar-link" href="../../columns/geo-special/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M10.5 3a7.5 7.5 0 1 1 4.717 13.332l4.225 4.226-1.414 1.414-4.226-4.225A7.5 7.5 0 0 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11Z"/></svg></span>
+                    <strong>GEO专题</strong>
+                  </span>
+                  <span class="sidebar-link-meta">159 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/shitu-geo/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M10.5 3a7.5 7.5 0 1 1 4.717 13.332l4.225 4.226-1.414 1.414-4.226-4.225A7.5 7.5 0 0 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11Z"/></svg></span>
+                    <strong>GEO知识库</strong>
+                  </span>
+                  <span class="sidebar-link-meta">114 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/listed-company-committee/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>工委会</strong>
+                  </span>
+                  <span class="sidebar-link-meta">16 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/adult-education-upgrade/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>成人学历提升</strong>
+                  </span>
+                  <span class="sidebar-link-meta">157 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/technology/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M9 3h6v2h2.5A2.5 2.5 0 0 1 20 7.5V10h2v4h-2v2.5A2.5 2.5 0 0 1 17.5 19H15v2H9v-2H6.5A2.5 2.5 0 0 1 4 16.5V14H2v-4h2V7.5A2.5 2.5 0 0 1 6.5 5H9V3Zm-1 4a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H8Zm2 2h4v6h-4V9Z"/></svg></span>
+                    <strong>科技行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/manufacturing/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>制造行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">36 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/agriculture/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>农业行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">37 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/lifestyle/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>生活行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/home-living/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>家居行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">36 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/beauty/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>美妆行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/mother-baby/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>母婴行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/food/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>食品行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+                <a class="sidebar-link active" href="../../columns/coffee/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>咖啡行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">37 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/flowers/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>鲜花行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+        </nav>
+      </div>
+    </aside>
+
+        <div class="content-area">
+          <div class="article-main-layout">
+            <article class="article-panel">
+              <div class="breadcrumbs" id="article-breadcrumbs">
+                <a href="../../index.html">首页</a>
+                <span>/</span>
+                <a href="../../columns/coffee/index.html">咖啡行业</a>
+                <span>/</span>
+                <span>咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题</span>
+              </div>
+              <div id="article-shell">
+    <header class="article-header">
+      <div class="article-row-meta">
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>咖啡行业</span>
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm2 4v2h8V8H8Zm0 4v2h8v-2H8Zm0 4v2h5v-2H8Z"/></svg></span>行业GEO</span>
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 1 1 0 20a10 10 0 0 1 0-20Zm1 5h-2v6l4 2l.9-1.8l-2.9-1.45V7Z"/></svg></span>6 分钟</span>
+      </div>
+      <h1>咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题</h1>
+      <p class="article-excerpt">内容优质但搜索引擎不抓取，通常不是内容本身的问题，而是技术链路上某个环节被阻断。排查应按状态码→robots.txt→canonical→sitemap→内链→渲染→服务器日志的顺序逐层进行，每层都有明确的检查工具和修复动作。以下是一套可直接操作的排查流程。</p>
+      <div class="meta-row">
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M9 3h6v2h2.5A2.5 2.5 0 0 1 20 7.5V10h2v4h-2v2.5A2.5 2.5 0 0 1 17.5 19H15v2H9v-2H6.5A2.5 2.5 0 0 1 4 16.5V14H2v-4h2V7.5A2.5 2.5 0 0 1 6.5 5H9V3Zm-1 4a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H8Zm2 2h4v6h-4V9Z"/></svg></span>行业：咖啡</span>
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm2 4v2h8V8H8Zm0 4v2h8v-2H8Zm0 4v2h5v-2H8Z"/></svg></span>来源：咖啡行业</span>
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 1 1 0 20a10 10 0 0 1 0-20Zm1 5h-2v6l4 2l.9-1.8l-2.9-1.45V7Z"/></svg></span>发布时间：2026年7月28日</span>
+      </div>
+    </header>
+    <div class="article-body"><p>内容优质但搜索引擎不抓取，通常不是内容本身的问题，而是技术链路上某个环节被阻断。排查应按状态码→robots.txt→canonical→sitemap→内链→渲染→服务器日志的顺序逐层进行，每层都有明确的检查工具和修复动作。以下是一套可直接操作的排查流程。</p>
+<h2 id="第一步检查状态码服务器是否正常响应">第一步：检查状态码——服务器是否正常响应</h2>
+<p>抓取的前提是服务器能正常返回页面内容。如果Googlebot访问你的咖啡产品页或品牌故事页时收到4xx或5xx状态码，爬虫会直接放弃。</p>
+<p><strong>检查工具</strong>：Google Search Console的“URL检查”工具，或使用<code>curl -I https://你的域名/coffee-beans</code>查看响应头。</p>
+<p><strong>关键指标</strong>：</p>
+<ul><li>200：正常，继续下一步</li><li>301/302：确认重定向目标是否正确，避免链式重定向（如A→B→C）</li><li>404：页面已删除或路径错误，需修复或设置410</li><li>500/503：服务器故障或过载，需联系主机商</li></ul>
+<p><strong>真实案例</strong>：某咖啡品牌的新品页面上线后一直未被收录，排查发现服务器对带<code>?utm_source=google</code>的参数返回404，而sitemap中提交的正是带参数的URL。修复方式：要么让服务器正确处理参数，要么在sitemap中提交无参数的干净URL。</p>
+<p><strong>边界情况</strong>：不要只看首页状态码。很多网站首页正常，但内容页因伪静态规则配置错误返回404。必须逐页检查。</p>
+<h2 id="第二步检查robotstxt是否无意中屏蔽了搜索引擎">第二步：检查robots.txt——是否无意中屏蔽了搜索引擎</h2>
+<p>robots.txt是爬虫访问网站的第一道门。如果这里配置错误，Googlebot根本不会进入内容目录。</p>
+<p><strong>检查工具</strong>：访问<code>https://你的域名/robots.txt</code>，或在Search Console的“robots.txt测试”工具中验证。</p>
+<p><strong>关键规则</strong>：</p>
+<ul><li><code>Disallow: /</code> 会屏蔽整个网站</li><li><code>Disallow: /blog/</code> 会屏蔽博客目录</li><li><code>Allow: /</code> 配合 <code>Disallow: /admin/</code> 是常见正确配置</li></ul>
+<p><strong>真实案例</strong>：某咖啡茶饮网站在迁移时，开发人员将<code>Disallow: /</code>写入了robots.txt，导致所有页面在两周内从索引中消失。修复后，通过Search Console请求重新抓取，索引恢复需要3-5天。</p>
+<p><strong>操作建议</strong>：检查robots.txt中是否包含以下危险模式：</p>
+<ul><li>禁止了<code>/product/</code>、<code>/article/</code>等核心目录</li><li>使用了<code>Disallow: /<em>?</em></code> 导致所有带参数的URL被屏蔽</li><li>未正确配置<code>sitemap</code>指令（可选，但推荐加上）</li></ul>
+<h2 id="第三步检查canonical标签是否指向了错误版本">第三步：检查canonical标签——是否指向了错误版本</h2>
+<p>canonical标签告诉搜索引擎哪个URL是主版本。如果配置错误，Google可能将你的优质内容合并到其他页面，导致原创页面不被索引。</p>
+<p><strong>检查工具</strong>：浏览器查看页面源代码，搜索<code>rel=&quot;canonical&quot;</code>；或使用Chrome的“查看页面来源”功能。</p>
+<p><strong>关键指标</strong>：</p>
+<ul><li>每个页面应有唯一的canonical URL</li><li>canonical应指向自身，除非是分页或参数版本</li><li>避免所有页面指向首页</li></ul>
+<p><strong>真实案例</strong>：某咖啡知识网站的所有文章页都指向了首页，原因是CMS模板中误用了全局变量。结果Google只索引了首页，数百篇优质文章全部消失。修复后，需逐个页面重新提交索引。</p>
+<p><strong>操作建议</strong>：使用Screaming Frog或Sitebulb爬取全站，导出所有页面的canonical标签，检查是否有重复或指向错误的情况。</p>
+<h2 id="第四步检查sitemap是否提交了正确的url并覆盖所有重要页面">第四步：检查sitemap——是否提交了正确的URL并覆盖所有重要页面</h2>
+<p>sitemap是向搜索引擎提交页面清单的官方渠道。如果sitemap缺失、包含错误URL或未提交，重要页面可能长期不被发现。</p>
+<p><strong>检查工具</strong>：Search Console的“Sitemaps”报告，或直接访问<code>https://你的域名/sitemap.xml</code>。</p>
+<p><strong>关键指标</strong>：</p>
+<ul><li>sitemap中所有URL返回200</li><li>覆盖所有需索引的页面（产品页、文章页、品牌页）</li><li>不包含noindex页面、分页页面、标签页等低价值URL</li><li>已通过Search Console提交，且状态为“成功”</li></ul>
+<p><strong>真实案例</strong>：某咖啡器具电商的sitemap中包含了3000个产品筛选页（如<code>/products?color=red</code>），但实际产品页只有200个。Googlebot大量抓取筛选页，浪费抓取预算，核心产品页反而被忽略。修复方式：sitemap只提交产品详情页，筛选页通过内链自然发现。</p>
+<p><strong>操作建议</strong>：sitemap中的URL数量应等于你希望被索引的核心页面数量，而不是全站URL总数。定期检查sitemap中是否有404或301的URL。</p>
+<h2 id="第五步检查内链结构爬虫能否通过链接到达内容页">第五步：检查内链结构——爬虫能否通过链接到达内容页</h2>
+<p>即使sitemap提交了，如果页面没有内链入口，爬虫可能仍然无法发现它。内链是爬虫发现页面的主要路径。</p>
+<p><strong>检查工具</strong>：使用Screaming Frog爬取网站，查看“Inlinks”列；或手动检查重要页面是否在导航、面包屑、相关文章中有链接。</p>
+<p><strong>关键指标</strong>：</p>
+<ul><li>每个重要页面至少有1个来自其他页面的可点击链接</li><li>链接使用<code>&lt;a href=&quot;...&quot;&gt;</code>格式，而非JavaScript事件或图片映射</li><li>避免使用<code>nofollow</code>阻止爬虫跟踪</li></ul>
+<p><strong>真实案例</strong>：某咖啡品牌的“咖啡豆产地故事”系列文章，只在首页的“最新文章”模块中出现，但该模块只显示5篇，且不翻页。结果早期文章成为孤岛页面，从未被爬虫发现。修复方式：在文章页底部添加“相关文章”模块，确保每篇文章至少有3-5个内链入口。</p>
+<p><strong>边界情况</strong>：不要依赖“网站地图”或“归档页”作为唯一内链入口。这些页面通常层级深、权重低，爬虫可能不会频繁访问。</p>
+<h2 id="第六步检查渲染javascript内容是否被正确抓取">第六步：检查渲染——JavaScript内容是否被正确抓取</h2>
+<p>如果你的咖啡茶饮网站大量使用JavaScript渲染内容（如菜单、价格、评价、产品描述），Googlebot可能无法提取文本内容。</p>
+<p><strong>检查工具</strong>：Search Console的“URL检查”工具，点击“查看已抓取页面”，对比“HTML”和“渲染的HTML”差异。</p>
+<p><strong>关键指标</strong>：</p>
+<ul><li>渲染后的HTML中是否包含核心文本内容</li><li>是否依赖JavaScript加载关键数据（如价格、库存）</li><li>是否使用客户端渲染框架（如React、Vue）且未做SSR</li></ul>
+<p><strong>真实案例</strong>：某咖啡订阅网站的“本月咖啡豆”页面，产品名称和价格通过JavaScript异步加载，Googlebot抓取时只看到空白容器。修复方式：使用服务器端渲染（SSR）或预渲染，确保核心内容在初始HTML中可见。</p>
+<p><strong>操作建议</strong>：如果网站依赖JavaScript渲染，至少确保以下内容在初始HTML中可用：标题、描述、价格、链接。Google的<a href="https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics" target="_blank" rel="noreferrer">JavaScript SEO基础文档</a>明确指出，Googlebot会二次渲染，但渲染结果可能不完整，且延迟较高。</p>
+<h2 id="第七步检查服务器日志爬虫实际访问了哪些url">第七步：检查服务器日志——爬虫实际访问了哪些URL</h2>
+<p>前六步都是基于假设，服务器日志是唯一能确认爬虫行为的证据。通过日志，你可以看到Googlebot是否真的来过、访问了哪些URL、遇到了什么错误。</p>
+<p><strong>检查工具</strong>：如果使用Apache或Nginx，日志文件通常在<code>/var/log/apache2/access.log</code>或<code>/var/log/nginx/access.log</code>。使用<code>grep googlebot access.log</code>过滤爬虫请求。</p>
+<p><strong>关键指标</strong>：</p>
+<ul><li>Googlebot访问的URL列表，是否覆盖了所有重要页面</li><li>访问频率：是否过于频繁（可能触发限流）或过于稀疏（抓取预算不足）</li><li>错误码分布：是否有大量404或500</li></ul>
+<p><strong>真实案例</strong>：某咖啡茶饮网站发现产品页未被索引，日志显示Googlebot只访问了首页和分类页，从未访问过产品详情页。原因是产品页的链接使用了<code>onclick</code>事件而非<code>&lt;a&gt;</code>标签，爬虫无法发现。修复后，日志中开始出现产品页的访问记录。</p>
+<p><strong>操作建议</strong>：如果日志显示Googlebot访问频率很低，可能是网站权重不足或抓取预算有限。此时应优先优化sitemap和内链，确保爬虫每次访问都能发现新页面。</p>
+<h2 class="qa-section-title" id="qa">Q&A</h2>
+<p><strong>问：咖啡茶饮网站常见的抓取问题有哪些？</strong> 答：常见问题包括：服务器返回500错误、robots.txt误屏蔽、canonical指向首页、sitemap未提交或包含错误URL、内链不足导致页面成为孤岛、JS内容未正确渲染。</p>
+<p><strong>问：排查完所有步骤后仍无法解决怎么办？</strong> 答：如果按照上述流程排查后问题依旧，可能是更深层的技术问题，如服务器IP被Google列入黑名单、CDN配置错误、或网站存在软404。此时建议进行全面的技术审计，可参考天行GEO的<a href="/services.html" target="_blank" rel="noreferrer">技术审计服务</a>或查阅<a href="/faq.html" target="_blank" rel="noreferrer">常见问题解答</a>中的相关案例。</p>
+<p><strong>问：排查顺序可以调整吗？</strong> 答：建议按本文顺序进行，因为每一步的结果会影响下一步的判断。例如，如果状态码返回404，检查robots.txt就没有意义；如果canonical指向错误，sitemap提交的URL可能被忽略。逐层排查能避免重复劳动。</p></div>
+
+
+
+    <section class="article-discovery section-card" aria-labelledby="article-discovery-title">
+      <div class="section-head compact">
+        <div>
+          <p class="eyebrow">继续阅读</p>
+          <h2 id="article-discovery-title">咖啡行业相关内容</h2>
+        </div>
+        <a class="button secondary" href="../../columns/coffee/">查看专题全部文章</a>
+      </div>
+      <ul class="article-discovery-list">
+        <li><a href="../../articles/coffee-37/">咖啡茶饮网站的结构化数据，先按主实体选类型</a><span>选择 Schema 类型，不能按“咖啡茶饮行业”这个标签去套模板，而要根据每个页面的真实内容与核心意图来判断。品牌官网首页用 Organization，商品销售页用 Product，培训、租赁、团购服务页用 Service，行业文章用 Article，页面有真实可见的问答才用 FAQPage，全站加 Breadcrum...</span></li>
+        <li><a href="../../articles/coffee-36/">咖啡茶饮网站旧内容更新决策：五个判断维度与执行边界</a><span>内容更新不是“越勤越好”，也不是“流量低了就改”。咖啡茶饮行业的网站运营者经常面临一个实际问题：一篇旧文章，是改、是留、还是删？判断依据不应是发布时间或流量数字，而应从信息过期、意图偏移、证据缺口、曝光下降与交付属性五个维度逐一排查。</span></li>
+        <li><a href="../../articles/coffee-35/">咖啡茶饮内容中的数据和效果承诺怎么合规表达</a><span>咖啡茶饮网站要避免夸大数据和效果承诺，核心做法是建立数据口径、来源、时间、适用范围和更新责任五要素，让每一句涉及数据或效果的表述都可核查、可追溯、有时效边界。这不是为了应付监管，而是因为AI搜索正在把&quot;谁的数据更可信&quot;变成排名逻辑的一部分——来源模糊、时间缺失、口径不清的内容，正在被大模型和用户同时降权。</span></li>
+        <li><a href="../../articles/coffee-34/">咖啡茶饮专家与作者页：如何构建一个让AI搜索信任的实体</a><span>作者页在咖啡茶饮行业长期处于两难位置：写得太简单，搜索引擎和AI模型无法确认你是谁；写得太像自我宣传，又会被判定为低质量内容。问题的核心不在于篇幅，而在于你是否用可验证的信息回答了三个问题：你是谁、你懂什么、你做过什么。</span></li></ul>
+      <div class="article-discovery-actions"><a class="button secondary" href="../../articles/coffee-33/">咖啡茶饮如何建立可核查的信任证据</a><a class="button secondary" href="../../articles/coffee-32/">咖啡茶饮对比页怎么写，才不会变成低质量拉踩</a></div>
+      <nav class="article-discovery-nav" aria-label="站内方法与资料入口">
+        <a href="../../faq.html">常见问题与方法说明</a>
+        <a href="../../services.html">GEO / SEO 服务方案</a>
+        <a href="../../research.html">GEO 论文与研究资料</a>
+      </nav>
+    </section>
+  </div>
+            </article>
+            <aside class="article-actions-panel">
+              <div class="section-head compact">
+                <div>
+                  <p class="eyebrow">Actions</p>
+                  <h2>快捷操作</h2>
+                </div>
+              </div>
+              <div class="action-stack">
+                <a class="button secondary" id="back-column" href="../../index.html">返回专题</a>
+                <a class="button secondary" href="../../index.html">返回首页</a>
+                <button class="button secondary" type="button" data-open-search>站内搜索</button>
+                <button class="button primary" type="button" id="open-editor">修改文章</button>
+              </div>
+              <div class="article-filter-stack" id="article-filter-stack"></div>
+            </aside>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div class="footer-grid">
+          <div class="footer-block">
+            <p class="footer-title">天行GEO</p>
+            <p class="footer-meta">主理人：李哲｜GEO资深专家</p>
+          </div>
+          <div class="footer-block align-right">
+            <p class="footer-meta">联系邮箱：757685550@qq.com</p>
+            <p class="footer-meta">备案号：<a href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer">京ICP备2026050119号-1</a></p>
+            <p class="footer-meta">
+              友情链接：
+              <a href="https://www.wechatsync.com/" target="_blank" rel="noreferrer">一键内容分发</a>
+              /
+              <a href="https://lizhe.work/" target="_blank" rel="noreferrer">作者主页</a>
+              /
+              <a href="https://alice-lizhesite.vercel.app/" target="_blank" rel="noreferrer">Alice 李哲站</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+
+    <div class="drawer hidden" id="editor-drawer" aria-hidden="true">
+      <div class="drawer-panel" role="dialog" aria-modal="true" aria-labelledby="editor-title">
+        <div class="drawer-head">
+          <div>
+            <p class="eyebrow">Authorized Edit</p>
+            <h2 id="editor-title">授权修改文章</h2>
+          </div>
+          <button class="icon-button" type="button" id="editor-close" aria-label="关闭编辑器">关闭</button>
+        </div>
+        <p class="editor-notice" role="note">修改保存在当前浏览器中，用于预览和客户交付，不会覆盖网站源文章或自动发布内容。需要正式发布时，请复制修改内容并进入发布流程。</p>
+        <form class="editor-form" id="editor-form">
+          <label><span>标题</span><input type="text" name="title" required /></label>
+          <label><span>摘要</span><textarea name="excerpt" rows="4" required></textarea></label>
+          <div class="editor-grid">
+            <label><span>分类</span><input type="text" name="category" /></label>
+            <label><span>阅读时长</span><input type="text" name="readTime" /></label>
+          </div>
+          <label><span>正文</span><textarea class="editor-body" name="markdown" rows="18" required></textarea></label>
+          <div class="action-row">
+            <button class="button primary" type="submit">保存本机修改</button>
+            <button class="button secondary" type="button" id="copy-patch">复制交付内容</button>
+            <button class="button secondary" type="button" id="reset-override">恢复网站原文</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div class="search-layer hidden" id="global-search-layer" aria-hidden="true">
+      <div class="search-panel">
+        <div class="search-head">
+          <div>
+            <p class="eyebrow">Global Search</p>
+            <h2>搜索专题与文章</h2>
+          </div>
+          <button class="icon-button" type="button" id="global-search-close" aria-label="关闭搜索" title="关闭搜索"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="m6.4 5 5.6 5.6L17.6 5 19 6.4 13.4 12 19 17.6 17.6 19 12 13.4 6.4 19 5 17.6 10.6 12 5 6.4 6.4 5Z"/></svg></span></button>
+        </div>
+        <label class="search-input-wrap">
+          <input id="global-search-input" type="search" placeholder="输入关键词搜索专题、文章、分类" />
+        </label>
+        <div class="search-results-grid">
+          <section>
+            <div class="search-block-title">专题</div>
+            <div class="search-results-list" id="global-search-columns"></div>
+          </section>
+          <section>
+            <div class="search-block-title">文章</div>
+            <div class="search-results-list" id="global-search-articles"></div>
+          </section>
+        </div>
+      </div>
+    </div>
+
+    <script id="article-editor-source" type="application/json">{"slug":"coffee-28","order":28,"title":"咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题","excerpt":"内容优质但搜索引擎不抓取，通常不是内容本身的问题，而是技术链路上某个环节被阻断。排查应按状态码→robots.txt→canonical→sitemap→内链→渲染→服务器日志的顺序逐层进行，每层都有明确的检查工具和修复动作。以下是一套可直接操作的排查流程。","industry":"咖啡","columnSlug":"coffee","columnName":"咖啡行业","company":"","category":"行业GEO","categorySlug":"行业geo","publishedAt":"2026-07-28T04:40:34.511Z","updatedAt":"2026-07-28T04:40:34.511Z","publishedDate":"2026-07-28","publishedDateLabel":"2026年7月28日","year":2026,"month":7,"readTime":"6 分钟","sourceType":"md","heroImage":"","images":[],"visibility":"public","indexable":true,"requiresAuth":false,"seo":{"title":"咖啡茶饮网站内容优质却不被抓取？按这7步排查，30分钟定位问题 | 咖啡行业 | 天行GEO","description":"内容优质但搜索引擎不抓取，通常不是内容本身的问题，而是技术链路上某个环节被阻断。排查应按状态码→robots.txt→canonical→sitemap→内链→渲染→服务器日志的顺序逐层进行，每层都有明确的检查工具和修复动作。以下是一套可直接操作的排查流程。本文围绕“咖啡茶饮网站内容优质却不被抓取？按这7步排"},"markdown":"内容优质但搜索引擎不抓取，通常不是内容本身的问题，而是技术链路上某个环节被阻断。排查应按状态码→robots.txt→canonical→sitemap→内链→渲染→服务器日志的顺序逐层进行，每层都有明确的检查工具和修复动作。以下是一套可直接操作的排查流程。\n\n## 第一步：检查状态码——服务器是否正常响应\n\n抓取的前提是服务器能正常返回页面内容。如果Googlebot访问你的咖啡产品页或品牌故事页时收到4xx或5xx状态码，爬虫会直接放弃。\n\n**检查工具**：Google Search Console的“URL检查”工具，或使用`curl -I https://你的域名/coffee-beans`查看响应头。\n\n**关键指标**：\n- 200：正常，继续下一步\n- 301/302：确认重定向目标是否正确，避免链式重定向（如A→B→C）\n- 404：页面已删除或路径错误，需修复或设置410\n- 500/503：服务器故障或过载，需联系主机商\n\n**真实案例**：某咖啡品牌的新品页面上线后一直未被收录，排查发现服务器对带`?utm_source=google`的参数返回404，而sitemap中提交的正是带参数的URL。修复方式：要么让服务器正确处理参数，要么在sitemap中提交无参数的干净URL。\n\n**边界情况**：不要只看首页状态码。很多网站首页正常，但内容页因伪静态规则配置错误返回404。必须逐页检查。\n\n## 第二步：检查robots.txt——是否无意中屏蔽了搜索引擎\n\nrobots.txt是爬虫访问网站的第一道门。如果这里配置错误，Googlebot根本不会进入内容目录。\n\n**检查工具**：访问`https://你的域名/robots.txt`，或在Search Console的“robots.txt测试”工具中验证。\n\n**关键规则**：\n- `Disallow: /` 会屏蔽整个网站\n- `Disallow: /blog/` 会屏蔽博客目录\n- `Allow: /` 配合 `Disallow: /admin/` 是常见正确配置\n\n**真实案例**：某咖啡茶饮网站在迁移时，开发人员将`Disallow: /`写入了robots.txt，导致所有页面在两周内从索引中消失。修复后，通过Search Console请求重新抓取，索引恢复需要3-5天。\n\n**操作建议**：检查robots.txt中是否包含以下危险模式：\n- 禁止了`/product/`、`/article/`等核心目录\n- 使用了`Disallow: /*?*` 导致所有带参数的URL被屏蔽\n- 未正确配置`sitemap`指令（可选，但推荐加上）\n\n## 第三步：检查canonical标签——是否指向了错误版本\n\ncanonical标签告诉搜索引擎哪个URL是主版本。如果配置错误，Google可能将你的优质内容合并到其他页面，导致原创页面不被索引。\n\n**检查工具**：浏览器查看页面源代码，搜索`rel=\"canonical\"`；或使用Chrome的“查看页面来源”功能。\n\n**关键指标**：\n- 每个页面应有唯一的canonical URL\n- canonical应指向自身，除非是分页或参数版本\n- 避免所有页面指向首页\n\n**真实案例**：某咖啡知识网站的所有文章页都指向了首页，原因是CMS模板中误用了全局变量。结果Google只索引了首页，数百篇优质文章全部消失。修复后，需逐个页面重新提交索引。\n\n**操作建议**：使用Screaming Frog或Sitebulb爬取全站，导出所有页面的canonical标签，检查是否有重复或指向错误的情况。\n\n## 第四步：检查sitemap——是否提交了正确的URL并覆盖所有重要页面\n\nsitemap是向搜索引擎提交页面清单的官方渠道。如果sitemap缺失、包含错误URL或未提交，重要页面可能长期不被发现。\n\n**检查工具**：Search Console的“Sitemaps”报告，或直接访问`https://你的域名/sitemap.xml`。\n\n**关键指标**：\n- sitemap中所有URL返回200\n- 覆盖所有需索引的页面（产品页、文章页、品牌页）\n- 不包含noindex页面、分页页面、标签页等低价值URL\n- 已通过Search Console提交，且状态为“成功”\n\n**真实案例**：某咖啡器具电商的sitemap中包含了3000个产品筛选页（如`/products?color=red`），但实际产品页只有200个。Googlebot大量抓取筛选页，浪费抓取预算，核心产品页反而被忽略。修复方式：sitemap只提交产品详情页，筛选页通过内链自然发现。\n\n**操作建议**：sitemap中的URL数量应等于你希望被索引的核心页面数量，而不是全站URL总数。定期检查sitemap中是否有404或301的URL。\n\n## 第五步：检查内链结构——爬虫能否通过链接到达内容页\n\n即使sitemap提交了，如果页面没有内链入口，爬虫可能仍然无法发现它。内链是爬虫发现页面的主要路径。\n\n**检查工具**：使用Screaming Frog爬取网站，查看“Inlinks”列；或手动检查重要页面是否在导航、面包屑、相关文章中有链接。\n\n**关键指标**：\n- 每个重要页面至少有1个来自其他页面的可点击链接\n- 链接使用`\u003ca href=\"...\">`格式，而非JavaScript事件或图片映射\n- 避免使用`nofollow`阻止爬虫跟踪\n\n**真实案例**：某咖啡品牌的“咖啡豆产地故事”系列文章，只在首页的“最新文章”模块中出现，但该模块只显示5篇，且不翻页。结果早期文章成为孤岛页面，从未被爬虫发现。修复方式：在文章页底部添加“相关文章”模块，确保每篇文章至少有3-5个内链入口。\n\n**边界情况**：不要依赖“网站地图”或“归档页”作为唯一内链入口。这些页面通常层级深、权重低，爬虫可能不会频繁访问。\n\n## 第六步：检查渲染——JavaScript内容是否被正确抓取\n\n如果你的咖啡茶饮网站大量使用JavaScript渲染内容（如菜单、价格、评价、产品描述），Googlebot可能无法提取文本内容。\n\n**检查工具**：Search Console的“URL检查”工具，点击“查看已抓取页面”，对比“HTML”和“渲染的HTML”差异。\n\n**关键指标**：\n- 渲染后的HTML中是否包含核心文本内容\n- 是否依赖JavaScript加载关键数据（如价格、库存）\n- 是否使用客户端渲染框架（如React、Vue）且未做SSR\n\n**真实案例**：某咖啡订阅网站的“本月咖啡豆”页面，产品名称和价格通过JavaScript异步加载，Googlebot抓取时只看到空白容器。修复方式：使用服务器端渲染（SSR）或预渲染，确保核心内容在初始HTML中可见。\n\n**操作建议**：如果网站依赖JavaScript渲染，至少确保以下内容在初始HTML中可用：标题、描述、价格、链接。Google的[JavaScript SEO基础文档](https://developers.google.com/search/docs/crawling-indexing/javascript/javascript-seo-basics)明确指出，Googlebot会二次渲染，但渲染结果可能不完整，且延迟较高。\n\n## 第七步：检查服务器日志——爬虫实际访问了哪些URL\n\n前六步都是基于假设，服务器日志是唯一能确认爬虫行为的证据。通过日志，你可以看到Googlebot是否真的来过、访问了哪些URL、遇到了什么错误。\n\n**检查工具**：如果使用Apache或Nginx，日志文件通常在`/var/log/apache2/access.log`或`/var/log/nginx/access.log`。使用`grep googlebot access.log`过滤爬虫请求。\n\n**关键指标**：\n- Googlebot访问的URL列表，是否覆盖了所有重要页面\n- 访问频率：是否过于频繁（可能触发限流）或过于稀疏（抓取预算不足）\n- 错误码分布：是否有大量404或500\n\n**真实案例**：某咖啡茶饮网站发现产品页未被索引，日志显示Googlebot只访问了首页和分类页，从未访问过产品详情页。原因是产品页的链接使用了`onclick`事件而非`\u003ca>`标签，爬虫无法发现。修复后，日志中开始出现产品页的访问记录。\n\n**操作建议**：如果日志显示Googlebot访问频率很低，可能是网站权重不足或抓取预算有限。此时应优先优化sitemap和内链，确保爬虫每次访问都能发现新页面。\n\n## 常见问题\n\n**问：咖啡茶饮网站常见的抓取问题有哪些？**\n答：常见问题包括：服务器返回500错误、robots.txt误屏蔽、canonical指向首页、sitemap未提交或包含错误URL、内链不足导致页面成为孤岛、JS内容未正确渲染。\n\n**问：排查完所有步骤后仍无法解决怎么办？**\n答：如果按照上述流程排查后问题依旧，可能是更深层的技术问题，如服务器IP被Google列入黑名单、CDN配置错误、或网站存在软404。此时建议进行全面的技术审计，可参考天行GEO的[技术审计服务](/services.html)或查阅[常见问题解答](/faq.html)中的相关案例。\n\n**问：排查顺序可以调整吗？**\n答：建议按本文顺序进行，因为每一步的结果会影响下一步的判断。例如，如果状态码返回404，检查robots.txt就没有意义；如果canonical指向错误，sitemap提交的URL可能被忽略。逐层排查能避免重复劳动。"}</script>
+    <script src="../../data/content-index.js?v=20260620-editor"></script>
+    <script src="../../data/content-index/coffee-1.js?v=20260718-sharded"></script>
+    <script src="../../shared/content-utils.js?v=20260614-password-ttl"></script>
+    <script src="../../data-service.js"></script>
+    <script src="../../shared/site-shell.js?v=20260614-password-ttl"></script>
+    <script src="../../article.js?v=20260614-password-ttl"></script>
+  </body>
+</html>

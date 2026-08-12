@@ -1,0 +1,26 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="36" fill="#F8FBFE"/>
+  <rect x="60" y="58" width="1080" height="644" rx="28" fill="white" stroke="#D7E3EF" stroke-width="2"/>
+  <text x="92" y="114" fill="#10243D" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="34" font-weight="700">中文 FAQ 的整理流程</text>
+  <text x="92" y="154" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="20">从真实问法开始，而不是从企业想说什么开始。</text>
+
+  <rect x="116" y="278" width="220" height="120" rx="24" fill="#EEF5FC" stroke="#C8D9EB" stroke-width="2"/>
+  <text x="158" y="342" fill="#173B68" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="700">收集原始问法</text>
+  <text x="153" y="374" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">咨询记录 / 搜索词 / 社媒评论</text>
+
+  <rect x="404" y="278" width="220" height="120" rx="24" fill="#EEF5FC" stroke="#C8D9EB" stroke-width="2"/>
+  <text x="454" y="342" fill="#173B68" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="700">合并意图</text>
+  <text x="472" y="374" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">定义 / 比较 / 流程 / 价格 / 风险</text>
+
+  <rect x="692" y="278" width="220" height="120" rx="24" fill="#FFF4E4" stroke="#F1C57B" stroke-width="2"/>
+  <text x="734" y="342" fill="#8A5411" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="700">写短答案</text>
+  <text x="733" y="374" fill="#7A664A" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">先结论，再条件，再例外</text>
+
+  <rect x="980" y="278" width="104" height="120" rx="24" fill="#0F3B77"/>
+  <text x="1005" y="346" fill="white" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="26" font-weight="700">回链</text>
+  <text x="995" y="376" fill="#DCEBFF" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="16">专题 / 服务 / 案例</text>
+
+  <path d="M336 338H404" stroke="#9DB6D3" stroke-width="6" stroke-linecap="round"/>
+  <path d="M624 338H692" stroke="#9DB6D3" stroke-width="6" stroke-linecap="round"/>
+  <path d="M912 338H980" stroke="#E5B363" stroke-width="6" stroke-linecap="round"/>
+</svg>

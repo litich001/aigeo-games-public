@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">天行GEO服务交付三条执行线</title>
+  <desc id="desc">展示天行GEO在服务方案中并行推进的主源线、证据线与复盘线。</desc>
+  <defs>
+    <linearGradient id="laneBg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0a1422"/>
+      <stop offset="100%" stop-color="#18395a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#laneBg)"/>
+  <text x="108" y="86" fill="#f4f8fd" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="38" font-weight="700">天行GEO 服务交付三条执行线</text>
+  <text x="108" y="124" fill="#9fb9d2" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="20">不把 GEO 做成一条单线任务，而是让主源、证据与复盘同时推进</text>
+
+  <g>
+    <rect x="108" y="190" width="1384" height="146" rx="28" fill="#12283f" stroke="#3a6d99"/>
+    <text x="144" y="244" fill="#f6fbff" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="24" font-weight="700">主源线</text>
+    <text x="144" y="286" fill="#b8d0e7" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">首页定义句</text>
+    <text x="364" y="286" fill="#b8d0e7" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">专题与栏目</text>
+    <text x="590" y="286" fill="#b8d0e7" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">FAQ</text>
+    <text x="782" y="286" fill="#b8d0e7" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">案例页</text>
+    <text x="1012" y="286" fill="#b8d0e7" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">服务页</text>
+    <text x="1232" y="286" fill="#b8d0e7" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">作者页</text>
+    <path d="M280 276h46M502 276h46M662 276h46M868 276h46M1092 276h46" fill="none" stroke="#76b8ff" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <rect x="108" y="384" width="1384" height="146" rx="28" fill="#10263a" stroke="#6b5f44"/>
+    <text x="144" y="438" fill="#fff9ef" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="24" font-weight="700">证据线</text>
+    <text x="144" y="480" fill="#edd8b2" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">论文来源</text>
+    <text x="364" y="480" fill="#edd8b2" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">官方文档</text>
+    <text x="590" y="480" fill="#edd8b2" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">案例口径</text>
+    <text x="808" y="480" fill="#edd8b2" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">结构化数据</text>
+    <text x="1054" y="480" fill="#edd8b2" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">风险边界</text>
+    <text x="1268" y="480" fill="#edd8b2" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">合规表达</text>
+    <path d="M282 470h46M500 470h46M720 470h46M952 470h46M1176 470h46" fill="none" stroke="#f0b662" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <rect x="108" y="578" width="1384" height="170" rx="28" fill="#0f2134" stroke="#395d7d"/>
+    <text x="144" y="634" fill="#f4f8fd" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="24" font-weight="700">复盘线</text>
+    <text x="144" y="676" fill="#bad0e5" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">抓取与索引</text>
+    <text x="402" y="676" fill="#bad0e5" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">AI 提及与引用质量</text>
+    <text x="760" y="676" fill="#bad0e5" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">FAQ 新追问</text>
+    <text x="1018" y="676" fill="#bad0e5" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">服务页承接</text>
+    <text x="1262" y="676" fill="#bad0e5" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">下一轮改稿</text>
+    <path d="M292 664h70M650 664h70M896 664h70M1138 664h70" fill="none" stroke="#81c3ff" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g fill="none" stroke="#7cb4e3" stroke-width="3.5" stroke-linecap="round" opacity="0.9">
+    <path d="M800 336v34"/>
+    <path d="M800 530v34"/>
+  </g>
+</svg>

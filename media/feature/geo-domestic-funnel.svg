@@ -1,0 +1,22 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="36" fill="#F6FAFD"/>
+  <rect x="64" y="56" width="1072" height="648" rx="28" fill="white" stroke="#D7E3EF" stroke-width="2"/>
+  <text x="88" y="112" fill="#10243D" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="34" font-weight="700">中文 GEO 的四层漏斗</text>
+  <text x="88" y="152" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="20">抓取只是起点，索引、理解、引用和推荐才决定流量质量。</text>
+
+  <rect x="116" y="208" width="968" height="88" rx="24" fill="#0F3B77"/>
+  <text x="152" y="262" fill="white" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700">1. 抓取层</text>
+  <text x="344" y="262" fill="#DCEBFF" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="22">robots、sitemap、可访问性、URL 稳定性</text>
+
+  <rect x="176" y="322" width="848" height="88" rx="24" fill="#175B9C"/>
+  <text x="212" y="376" fill="white" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700">2. 索引层</text>
+  <text x="404" y="376" fill="#E6F3FF" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="22">页面主题清晰，重复内容少，首页与专题关系稳定</text>
+
+  <rect x="236" y="436" width="728" height="88" rx="24" fill="#E9A84B"/>
+  <text x="272" y="490" fill="#223247" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700">3. 理解层</text>
+  <text x="464" y="490" fill="#4C5F76" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="22">定义句、FAQ、案例证据、结构化表达</text>
+
+  <rect x="296" y="550" width="608" height="88" rx="24" fill="#FFF3DF" stroke="#F0B35E" stroke-width="2"/>
+  <text x="332" y="604" fill="#8A5411" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700">4. 引用与推荐层</text>
+  <text x="618" y="604" fill="#7A664A" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="22">被 AI 回答采用、被比较页提及、被用户继续点击</text>
+</svg>

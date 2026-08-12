@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">GEO案例证据链</title>
+  <desc id="desc">展示案例页如何从问题、动作、证据、结果到复盘形成结构化闭环。</desc>
+  <defs>
+    <linearGradient id="casebg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#08111f"/>
+      <stop offset="100%" stop-color="#10253b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#casebg)"/>
+  <text x="84" y="72" fill="#f2f7fb" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="34" font-weight="700">案例页证据链结构</text>
+  <text x="84" y="110" fill="#9bb3c9" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">不是只展示结果，而是把问题、动作、证据、结果、边界和复盘全部写清</text>
+  <g fill="#eff6fd" stroke="#2f5073">
+    <rect x="94" y="182" width="196" height="114" rx="22"/>
+    <rect x="352" y="182" width="196" height="114" rx="22"/>
+    <rect x="610" y="182" width="196" height="114" rx="22"/>
+    <rect x="868" y="182" width="196" height="114" rx="22"/>
+    <rect x="224" y="426" width="196" height="114" rx="22"/>
+    <rect x="482" y="426" width="196" height="114" rx="22"/>
+    <rect x="740" y="426" width="196" height="114" rx="22"/>
+  </g>
+  <g fill="#173450" font-family="Arial,'Microsoft YaHei',sans-serif">
+    <text x="120" y="230" font-size="22" font-weight="700">1. 原始问题</text>
+    <text x="120" y="266" font-size="18">品牌卡在哪里</text>
+    <text x="378" y="230" font-size="22" font-weight="700">2. 执行动作</text>
+    <text x="378" y="266" font-size="18">改了哪些页面</text>
+    <text x="636" y="230" font-size="22" font-weight="700">3. 公开证据</text>
+    <text x="636" y="266" font-size="18">信源和数据口径</text>
+    <text x="894" y="230" font-size="22" font-weight="700">4. 结果变化</text>
+    <text x="894" y="266" font-size="18">被怎样理解与引用</text>
+    <text x="250" y="474" font-size="22" font-weight="700">5. 适用边界</text>
+    <text x="250" y="510" font-size="18">哪些场景适合复制</text>
+    <text x="508" y="474" font-size="22" font-weight="700">6. FAQ 回流</text>
+    <text x="508" y="510" font-size="18">把追问沉淀为答案</text>
+    <text x="766" y="474" font-size="22" font-weight="700">7. 月度复盘</text>
+    <text x="766" y="510" font-size="18">让案例继续进化</text>
+  </g>
+  <g fill="none" stroke="#7faed8" stroke-width="4" stroke-linecap="round">
+    <path d="M290 239h48"/>
+    <path d="M548 239h48"/>
+    <path d="M806 239h48"/>
+    <path d="M962 296c0 48-36 88-86 102"/>
+    <path d="M322 426c-52-12-94-54-94-110"/>
+    <path d="M420 483h48"/>
+    <path d="M678 483h48"/>
+  </g>
+</svg>

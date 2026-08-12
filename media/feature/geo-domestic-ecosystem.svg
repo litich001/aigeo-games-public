@@ -1,0 +1,31 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="36" fill="#F7FAFD"/>
+  <rect x="54" y="54" width="1092" height="652" rx="28" fill="white" stroke="#D7E3EF" stroke-width="2"/>
+  <text x="86" y="110" fill="#10243D" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="34" font-weight="700">国内 GEO 的公开信息生态</text>
+  <text x="86" y="150" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="20">官网不是唯一入口，但通常应该是最稳定的解释源。</text>
+
+  <circle cx="600" cy="392" r="106" fill="#0F3B77"/>
+  <text x="535" y="385" fill="white" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="34" font-weight="700">官网主源</text>
+  <text x="522" y="425" fill="#DCEBFF" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="22">定义句 / FAQ / 案例 / 服务页</text>
+
+  <rect x="130" y="206" width="220" height="90" rx="24" fill="#EEF5FC" stroke="#C8D9EB" stroke-width="2"/>
+  <text x="175" y="258" fill="#173B68" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="700">百度与搜索</text>
+  <text x="174" y="286" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">抓取、索引、问答摘要</text>
+
+  <rect x="850" y="206" width="220" height="90" rx="24" fill="#EEF5FC" stroke="#C8D9EB" stroke-width="2"/>
+  <text x="911" y="258" fill="#173B68" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="700">AI 助手</text>
+  <text x="887" y="286" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">豆包、Kimi、元宝、夸克</text>
+
+  <rect x="120" y="494" width="240" height="90" rx="24" fill="#FFF4E4" stroke="#F1C57B" stroke-width="2"/>
+  <text x="164" y="546" fill="#8A5411" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="700">媒体与百科</text>
+  <text x="162" y="574" fill="#7A664A" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">背景解释与第三方信号</text>
+
+  <rect x="836" y="494" width="260" height="90" rx="24" fill="#FFF4E4" stroke="#F1C57B" stroke-width="2"/>
+  <text x="896" y="546" fill="#8A5411" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="28" font-weight="700">社媒与社区</text>
+  <text x="876" y="574" fill="#7A664A" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">真实问法、使用场景、用户反馈</text>
+
+  <path d="M360 250C430 285 482 320 522 350" stroke="#9DB6D3" stroke-width="6" stroke-linecap="round"/>
+  <path d="M850 250C780 285 728 320 678 350" stroke="#9DB6D3" stroke-width="6" stroke-linecap="round"/>
+  <path d="M360 540C432 506 486 476 522 444" stroke="#E5B363" stroke-width="6" stroke-linecap="round"/>
+  <path d="M836 540C770 505 718 476 678 444" stroke="#E5B363" stroke-width="6" stroke-linecap="round"/>
+</svg>

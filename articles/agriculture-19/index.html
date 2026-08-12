@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>农业行业结构化数据部署指南：六种核心类型与真实字段原则 | 农业行业 | 天行GEO</title>
+    <meta name="description" content="农业行业网站的结构化数据部署，核心不是“选哪种类型更高级”，而是让Schema类型与页面实际内容严格对应。根据Google官方推荐和实际部署经验，农业网站应优先部署Organization、Article、Service、Product、FAQ和Breadcrumb这六种Schema类型。选择标准只有一个：页" />
+    <meta name="keywords" content="天行GEO,李哲,GEO,SEO,AI搜索优化,生成式引擎优化,GEO论文,AI搜索,FAQ,案例解析,服务方案,知识库" />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <meta name="theme-color" content="#eef6fb" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta name="twitter:title" content="农业行业结构化数据部署指南：六种核心类型与真实字段原则 | 农业行业 | 天行GEO" />
+    <meta name="twitter:description" content="农业行业网站的结构化数据部署，核心不是“选哪种类型更高级”，而是让Schema类型与页面实际内容严格对应。根据Google官方推荐和实际部署经验，农业网站应优先部署Organization、Article、Service、Product、FAQ和Breadcrumb这六种Schema类型。选择标准只有一个：页" />
+    <meta name="twitter:image" content="https://aigeo.games/media/feature/author-geo-expert-desk.png" />
+    <meta name="twitter:image:alt" content="农业行业结构化数据部署指南：六种核心类型与真实字段原则 social image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="天行GEO" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:title" content="农业行业结构化数据部署指南：六种核心类型与真实字段原则 | 农业行业 | 天行GEO" />
+    <meta property="og:description" content="农业行业网站的结构化数据部署，核心不是“选哪种类型更高级”，而是让Schema类型与页面实际内容严格对应。根据Google官方推荐和实际部署经验，农业网站应优先部署Organization、Article、Service、Product、FAQ和Breadcrumb这六种Schema类型。选择标准只有一个：页" />
+    <meta property="og:url" content="https://aigeo.games/articles/agriculture-19/" />
+    <meta property="og:image" content="https://aigeo.games/media/feature/author-geo-expert-desk.png" />
+    <meta property="og:image:alt" content="农业行业结构化数据部署指南：六种核心类型与真实字段原则 social image" />
+    <meta property="article:published_time" content="2026-07-02T05:18:57.562Z" />
+    <meta property="article:modified_time" content="2026-07-02T05:18:57.562Z" />
+    <meta property="article:section" content="行业GEO" />
+    <link rel="canonical" href="https://aigeo.games/articles/agriculture-19/" />
+    <link rel="prev" href="https://aigeo.games/articles/agriculture-20/" />
+    <link rel="next" href="https://aigeo.games/articles/agriculture-18/" />
+    <link rel="alternate" type="application/rss+xml" title="Tianxing GEO RSS" href="../../rss.xml" />
+    <link rel="icon" type="image/svg+xml" href="../../media/brand/tianxing-geo-icon.svg" />
+    <link rel="apple-touch-icon" href="../../media/brand/tianxing-geo-icon.svg" />
+        <meta name="baidu-site-verification" content="codeva-iJW2nl7dEB" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-W9FL5WNT7Y"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-W9FL5WNT7Y");
+    </script>
+    <script>
+      (function () {
+        try {
+          document.documentElement.dataset.theme = localStorage.getItem("aigeo-site-theme-v2") || "ocean";
+        } catch (error) {
+          document.documentElement.dataset.theme = "ocean";
+        }
+      })();
+    </script>
+    <link rel="stylesheet" href="../../styles.css?v=20260614-password-ttl" />
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"农业行业结构化数据部署指南：六种核心类型与真实字段原则","description":"农业行业网站的结构化数据部署，核心不是“选哪种类型更高级”，而是让Schema类型与页面实际内容严格对应。根据Google官方推荐和实际部署经验，农业网站应优先部署Organization、Article、Service、Product、FAQ和Breadcrumb这六种Schema类型。选择标准只有一个：页","datePublished":"2026-07-02T05:18:57.562Z","dateModified":"2026-07-02T05:18:57.562Z","image":["https://aigeo.games/media/feature/author-geo-expert-desk.png"],"articleSection":"行业GEO","keywords":"天行GEO,李哲,GEO,SEO,AI搜索优化,生成式引擎优化,GEO论文,AI搜索,FAQ,案例解析,服务方案,知识库,行业GEO,农业行业","mainEntityOfPage":"https://aigeo.games/articles/agriculture-19/","publisher":{"@type":"Organization","name":"天行GEO","url":"https://aigeo.games/about.html","logo":{"@type":"ImageObject","url":"https://aigeo.games/media/brand/tianxing-geo-logo.svg"},"sameAs":["https://aigeo.games/about.html","https://lizhe.work/"]},"author":{"@type":"Organization","name":"农业行业"},"inLanguage":"zh-CN","isAccessibleForFree":true}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://aigeo.games/"},{"@type":"ListItem","position":2,"name":"农业行业","item":"https://aigeo.games/columns/agriculture/"},{"@type":"ListItem","position":3,"name":"农业行业结构化数据部署指南：六种核心类型与真实字段原则","item":"https://aigeo.games/articles/agriculture-19/"}]}</script>
+
+  </head>
+  <body data-base-path="../../" data-article-slug="agriculture-19" class="page-article">
+
+    <header class="site-header">
+      <div class="container topbar">
+        <a class="brand" href="../../index.html" aria-label="天行GEO">
+          <span class="brand-lockup">
+            <img class="brand-mark" src="../../media/brand/tianxing-geo-icon.svg" alt="天行GEO图标" loading="eager" />
+            <img class="brand-wordmark" src="../../media/brand/tianxing-geo-logo.svg" alt="天行GEO" loading="eager" />
+          </span>
+          <span class="brand-copy-fallback">
+            <strong id="site-name">天行GEO</strong>
+            <span id="site-tagline">中文 GEO / SEO / AI 搜索优化知识库</span>
+          </span>
+        </a>
+        <nav class="header-nav" id="site-nav">
+          <a id="home-link" href="../../index.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 4h7v7H4V4Zm9 0h7v7h-7V4ZM4 13h7v7H4v-7Zm9 0h7v7h-7v-7Z"/></svg></span><span>首页</span></a>
+          <a id="knowledge-link" href="../../columns/shitu-geo/index.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span><span>GEO知识库</span></a>
+          <a id="geo-link" href="../../columns/geo-special/index.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M10.5 3a7.5 7.5 0 1 1 4.717 13.332l4.225 4.226-1.414 1.414-4.226-4.225A7.5 7.5 0 0 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11Z"/></svg></span><span>GEO专题</span></a>
+          <a id="research-link" href="../../research.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm2 4v2h8V8H8Zm0 4v2h8v-2H8Zm0 4v2h5v-2H8Z"/></svg></span><span>论文资料</span></a>
+          <a id="services-link" href="../../services.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M9 3h6v2h2.5A2.5 2.5 0 0 1 20 7.5V10h2v4h-2v2.5A2.5 2.5 0 0 1 17.5 19H15v2H9v-2H6.5A2.5 2.5 0 0 1 4 16.5V14H2v-4h2V7.5A2.5 2.5 0 0 1 6.5 5H9V3Zm-1 4a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H8Zm2 2h4v6h-4V9Z"/></svg></span><span>服务方案</span></a>
+          <a id="cases-link" href="../../cases.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm2 4v2h8V8H8Zm0 4v2h8v-2H8Zm0 4v2h5v-2H8Z"/></svg></span><span>案例解析</span></a>
+          <a id="about-link" href="../../about.html"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.3 3.3a1 1 0 0 1 1.4 0l2 2a1 1 0 0 1 0 1.4l-9.8 9.8-4.3.8.8-4.3 9.9-9.7ZM5 19h14v2H5z"/></svg></span><span>关于作者</span></a>
+          <a id="recent-link" href="../../index.html#recent"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 1 1 0 20a10 10 0 0 1 0-20Zm1 5h-2v6l4 2l.9-1.8l-2.9-1.45V7Z"/></svg></span><span>最近更新</span></a>
+        </nav>
+        <div class="header-utility">
+          <button class="header-search-button header-utility-button" type="button" id="theme-switcher" aria-label="切换配色" title="切换配色"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 3C6.477 3 2 6.806 2 11.5S5.925 20 10 20h1a2 2 0 1 0 0-4h-.5A1.5 1.5 0 0 1 9 14.5c0-.828.672-1.5 1.5-1.5H13c4.971 0 9-3.134 9-7s-4.477-7-10-7Zm-5 8a1.5 1.5 0 1 1 0-3a1.5 1.5 0 0 1 0 3Zm4-4a1.5 1.5 0 1 1 .001 3.001A1.5 1.5 0 0 1 11 7Zm4 2a1.5 1.5 0 1 1 .001 3.001A1.5 1.5 0 0 1 15 9Zm4 0a1.5 1.5 0 1 1 .001 3.001A1.5 1.5 0 0 1 19 9Z"/></svg></span><span>配色</span></button>
+          <button class="header-search-button header-utility-button" type="button" id="global-search-button" data-open-search><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M10.5 3a7.5 7.5 0 1 1 4.717 13.332l4.225 4.226-1.414 1.414-4.226-4.225A7.5 7.5 0 0 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11Z"/></svg></span><span>搜索</span></button>
+          <button class="mobile-nav-toggle" type="button" id="mobile-nav-toggle" aria-expanded="false" aria-controls="site-nav"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 4h7v7H4V4Zm9 0h7v7h-7V4ZM4 13h7v7H4v-7Zm9 0h7v7h-7v-7Z"/></svg></span><span>菜单</span></button>
+        </div>
+      </div>
+    </header>
+    <div class="mobile-nav-backdrop" id="mobile-nav-backdrop" aria-hidden="true"></div>
+
+    <main class="container page-shell">
+      <div class="shell-layout">
+
+    <aside class="global-sidebar" id="global-sidebar">
+      <div class="sidebar-panel">
+        <div class="sidebar-title"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 4h7v7H4V4Zm9 0h7v7h-7V4ZM4 13h7v7H4v-7Zm9 0h7v7h-7v-7Z"/></svg></span><span>专题导航</span></div>
+        <nav class="sidebar-nav">
+
+                <a class="sidebar-link" href="../../columns/geo-special/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M10.5 3a7.5 7.5 0 1 1 4.717 13.332l4.225 4.226-1.414 1.414-4.226-4.225A7.5 7.5 0 0 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11Z"/></svg></span>
+                    <strong>GEO专题</strong>
+                  </span>
+                  <span class="sidebar-link-meta">159 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/shitu-geo/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M10.5 3a7.5 7.5 0 1 1 4.717 13.332l4.225 4.226-1.414 1.414-4.226-4.225A7.5 7.5 0 0 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11a5.5 5.5 0 0 0 0-11Z"/></svg></span>
+                    <strong>GEO知识库</strong>
+                  </span>
+                  <span class="sidebar-link-meta">114 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/listed-company-committee/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>工委会</strong>
+                  </span>
+                  <span class="sidebar-link-meta">16 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/adult-education-upgrade/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>成人学历提升</strong>
+                  </span>
+                  <span class="sidebar-link-meta">157 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/technology/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M9 3h6v2h2.5A2.5 2.5 0 0 1 20 7.5V10h2v4h-2v2.5A2.5 2.5 0 0 1 17.5 19H15v2H9v-2H6.5A2.5 2.5 0 0 1 4 16.5V14H2v-4h2V7.5A2.5 2.5 0 0 1 6.5 5H9V3Zm-1 4a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H8Zm2 2h4v6h-4V9Z"/></svg></span>
+                    <strong>科技行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/manufacturing/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>制造行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">36 篇</span>
+                </a>
+
+                <a class="sidebar-link active" href="../../columns/agriculture/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>农业行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">37 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/lifestyle/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>生活行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/home-living/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>家居行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">36 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/beauty/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>美妆行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/mother-baby/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>母婴行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/food/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>食品行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/coffee/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>咖啡行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">37 篇</span>
+                </a>
+
+                <a class="sidebar-link" href="../../columns/flowers/index.html">
+                  <span class="sidebar-link-main">
+                    <span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>
+                    <strong>鲜花行业</strong>
+                  </span>
+                  <span class="sidebar-link-meta">38 篇</span>
+                </a>
+
+        </nav>
+      </div>
+    </aside>
+
+        <div class="content-area">
+          <div class="article-main-layout">
+            <article class="article-panel">
+              <div class="breadcrumbs" id="article-breadcrumbs">
+                <a href="../../index.html">首页</a>
+                <span>/</span>
+                <a href="../../columns/agriculture/index.html">农业行业</a>
+                <span>/</span>
+                <span>农业行业结构化数据部署指南：六种核心类型与真实字段原则</span>
+              </div>
+              <div id="article-shell">
+    <header class="article-header">
+      <div class="article-row-meta">
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 7.5A2.5 2.5 0 0 1 5.5 5H10l1.8 2H18.5A2.5 2.5 0 0 1 21 9.5v7A2.5 2.5 0 0 1 18.5 19h-13A2.5 2.5 0 0 1 3 16.5v-9Z"/></svg></span>农业行业</span>
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm2 4v2h8V8H8Zm0 4v2h8v-2H8Zm0 4v2h5v-2H8Z"/></svg></span>行业GEO</span>
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 1 1 0 20a10 10 0 0 1 0-20Zm1 5h-2v6l4 2l.9-1.8l-2.9-1.45V7Z"/></svg></span>6 分钟</span>
+      </div>
+      <h1>农业行业结构化数据部署指南：六种核心类型与真实字段原则</h1>
+      <p class="article-excerpt">农业行业网站的结构化数据部署，核心不是“选哪种类型更高级”，而是让Schema类型与页面实际内容严格对应。根据Google官方推荐和实际部署经验，农业网站应优先部署Organization、Article、Service、Product、FAQ和Breadcrumb这六种Schema类型。选择标准只有一个：页面承载什么...</p>
+      <div class="meta-row">
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M9 3h6v2h2.5A2.5 2.5 0 0 1 20 7.5V10h2v4h-2v2.5A2.5 2.5 0 0 1 17.5 19H15v2H9v-2H6.5A2.5 2.5 0 0 1 4 16.5V14H2v-4h2V7.5A2.5 2.5 0 0 1 6.5 5H9V3Zm-1 4a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1H8Zm2 2h4v6h-4V9Z"/></svg></span>行业：农业</span>
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm2 4v2h8V8H8Zm0 4v2h8v-2H8Zm0 4v2h5v-2H8Z"/></svg></span>来源：农业行业</span>
+        <span><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 1 1 0 20a10 10 0 0 1 0-20Zm1 5h-2v6l4 2l.9-1.8l-2.9-1.45V7Z"/></svg></span>发布时间：2026年7月2日</span>
+      </div>
+    </header>
+    <div class="article-body"><p>农业行业网站的结构化数据部署，核心不是“选哪种类型更高级”，而是让Schema类型与页面实际内容严格对应。根据Google官方推荐和实际部署经验，农业网站应优先部署Organization、Article、Service、Product、FAQ和Breadcrumb这六种Schema类型。选择标准只有一个：页面承载什么信息，就用什么类型。</p>
+<h2 id="农业网站为何需要结构化数据">农业网站为何需要结构化数据</h2>
+<p>结构化数据是搜索引擎和AI模型理解网页内容的标准化接口。Google明确推荐使用JSON-LD格式，因为它独立于HTML，不影响页面渲染，且易于维护。当农业网站正确部署结构化数据后，搜索引擎可以在搜索结果中直接展示企业信息、产品价格、FAQ问答等富媒体片段，提升点击率。</p>
+<p>更重要的是，随着AI搜索（如Google SGE、Bing Chat）的普及，结构化数据成为大语言模型提取事实性信息的首选来源。你的网站如果缺少结构化数据，AI在回答用户问题时可能直接跳过你的内容。</p>
+<p>但一个常见误区是：为了“看起来专业”而部署过多或错误的Schema类型。农业网站尤其容易犯这个错误——在普通文章页部署Product Schema，或在联系方式页部署Service Schema。这种做法不仅无效，还可能被搜索引擎判定为误导行为。</p>
+<h2 id="六种核心schema类型及适用页面">六种核心Schema类型及适用页面</h2>
+<p>农业行业网站不需要追求复杂的扩展类型（如AgriculturalTaxonomy），核心六种类型已覆盖90%以上的场景。关键在于为每种页面选择正确的类型，并填写真实的字段。</p>
+<h3 id="organization公司介绍页关于我们页">Organization：公司介绍页、关于我们页</h3>
+<p>这是农业网站的基础Schema，适用于展示企业名称、Logo、联系方式、地址、社交媒体链接等。字段真实性要点：企业名称必须与营业执照一致，Logo URL指向实际可访问的图片，联系方式中的电话和邮箱必须真实有效。</p>
+<p><strong>常见错误</strong>：在Organization中填写虚假的评分（aggregateRating）或虚假的获奖信息（award）。如果企业确实没有公开评分或奖项，就不要填写这些字段。</p>
+<h3 id="article新闻动态技术文章行业资讯页">Article：新闻动态、技术文章、行业资讯页</h3>
+<p>适用于所有内容型页面，包括农业技术文章、行业新闻、种植指南等。字段真实性要点：author（作者）必须是真实姓名或机构名称，datePublished和dateModified必须与实际发布时间一致，image必须指向文章配图。</p>
+<p><strong>边界案例</strong>：一篇转载的农业技术文章，作者是“佚名”或“网络整理”。此时不应填写虚假作者，而应使用publisher字段标明转载来源，或直接省略author字段。</p>
+<h3 id="service服务介绍页业务范围页">Service：服务介绍页、业务范围页</h3>
+<p>适用于展示农业企业提供的具体服务，如种子供应、农技指导、农机租赁、农产品代销等。字段真实性要点：serviceType（服务类型）必须与页面内容对应，areaServed（服务区域）填写实际覆盖的地理范围，provider（服务提供方）指向Organization。</p>
+<p><strong>常见错误</strong>：将整个网站首页部署为Service Schema。首页通常包含多种信息，更适合用Organization或WebSite类型。Service只适用于专门介绍某项服务的独立页面。</p>
+<h3 id="product产品详情页商品列表页">Product：产品详情页、商品列表页</h3>
+<p>适用于展示具体的农业产品，如种子、化肥、农药、农机、农产品等。字段真实性要点：name（产品名称）必须与页面标题一致，offers.price（价格）必须与页面显示的价格一致，availability（库存状态）必须实时反映实际库存。</p>
+<p><strong>典型陷阱</strong>：农业网站经常在产品页面填写“价格面议”或“电话询价”，却在Schema中填写一个固定价格。这属于虚假字段，一旦被搜索引擎发现，可能导致整个网站的富媒体展示被撤销。</p>
+<h3 id="faq常见问题页问答板块">FAQ：常见问题页、问答板块</h3>
+<p>适用于集中回答用户高频问题的页面。字段真实性要点：每个问题（question）和答案（answer）必须真实存在于页面中，不能为了凑Schema而编造问题。</p>
+<p><strong>适用边界</strong>：FAQ Schema只适用于专门的问题列表页面，不适用于普通文章中的零星问答。如果你的文章中有两个问答，应该用Article Schema，而不是FAQ Schema。</p>
+<h3 id="breadcrumb所有页面">Breadcrumb：所有页面</h3>
+<p>面包屑导航（BreadcrumbList）是唯一建议在所有页面部署的Schema类型。它帮助搜索引擎理解网站层级结构，并在搜索结果中显示面包屑路径。字段真实性要点：每个列表项（item）的URL必须可访问，名称必须与页面标题或导航文字一致。</p>
+<h2 id="字段真实性避免虚假信息的陷阱">字段真实性：避免虚假信息的陷阱</h2>
+<p>农业行业网站部署结构化数据时，最容易犯的错误不是技术问题，而是字段真实性问题。搜索引擎和AI模型对结构化数据的信任度很高，一旦发现虚假信息，后果比没有部署更严重。</p>
+<p><strong>虚构评分</strong>：很多农业网站在Organization或Product中填写虚假的aggregateRating（如“5星好评，1000人评价”），但页面中根本没有显示评分功能。Google的算法可以交叉验证页面内容与Schema字段的一致性，一旦发现矛盾，不仅该Schema失效，还可能触发人工审核。</p>
+<p><strong>虚构价格</strong>：农业产品价格波动大，有些网站为了吸引点击，在Product Schema中填写一个低价，但页面实际显示的是“电话询价”或“价格随行情变动”。这种不一致会被搜索引擎视为欺骗行为。</p>
+<p><strong>虚构库存</strong>：在offers.availability字段填写“InStock”，但产品实际已下架或断货。农业行业季节性明显，库存变化快，必须确保Schema字段与实际情况同步更新。</p>
+<p><strong>虚构作者</strong>：在Article Schema中填写一个不存在的专家名字，或者把公司名称写成个人作者。这种做法在AI搜索时代尤其危险——AI模型会直接引用这些信息，一旦被用户发现虚假，企业信誉将受到严重损害。</p>
+<h2 class="qa-section-title" id="qa">Q&A</h2>
+<p>部署结构化数据后，必须使用专业工具验证。Google Rich Results Test是首选工具，它不仅能检测语法错误，还能预览搜索结果中的富媒体展示效果。Schema.org Validator则适合检查更详细的字段合规性。</p>
+<p>农业网站常见的验证错误包括：</p>
+<p><strong>缺少必填字段</strong>：每种Schema类型都有必填字段。例如，Product Schema的name和offers是必填的，Organization的name和logo是必填的。很多农业网站只填写了推荐字段，忽略了必填字段，导致Schema完全无效。</p>
+<p><strong>类型嵌套错误</strong>：例如在Organization中嵌套Product，或者在Article中嵌套Service。正确的做法是：如果页面同时包含多种信息，使用ItemList或WebPage作为顶层类型，再嵌套子类型。</p>
+<p><strong>URL格式错误</strong>：所有URL字段（如image、logo、url）必须是绝对路径，不能使用相对路径。农业网站经常使用相对路径，导致搜索引擎无法解析。</p>
+<p><strong>重复部署</strong>：同一页面部署了多个相同类型的Schema，或者JSON-LD与Microdata混用。Google建议每个页面只使用一种格式，且同一类型只部署一次。</p>
+<h2 id="部署后的维护与更新策略">部署后的维护与更新策略</h2>
+<p>结构化数据不是“部署一次就永久有效”的。农业行业信息变化频繁，必须建立持续的维护机制。</p>
+<p><strong>价格变更</strong>：当农产品价格调整时，必须同步更新Product Schema中的offers.price字段。建议通过CMS系统自动生成JSON-LD，确保价格数据从数据库直接读取，避免手动更新遗漏。</p>
+<p><strong>产品下架</strong>：当产品不再销售时，将offers.availability字段改为“OutOfStock”或“Discontinued”，而不是直接删除Schema。这样搜索引擎能理解产品状态，而不是认为页面内容错误。</p>
+<p><strong>FAQ修改</strong>：当常见问题页面更新时，同步修改FAQ Schema中的question和answer。如果问题被删除，也要从Schema中移除对应条目。</p>
+<p><strong>企业信息变更</strong>：当公司地址、电话、Logo等信息变更时，立即更新Organization Schema。搜索引擎会缓存结构化数据，更新后需要一段时间才能生效，因此越早更新越好。</p>
+<p><strong>定期审计</strong>：建议每季度使用Google Rich Results Test对所有核心页面进行一次全面检查，确保Schema字段与页面内容一致。可以使用Google Search Console的结构化数据报告监控错误和警告。</p>
+<p>对于需要专业结构化数据部署与审计服务的农业网站，可访问<a href="/services.html" target="_blank" rel="noreferrer">天行GEO的服务页面</a>获取帮助。更多关于结构化数据的常见问题，请参考<a href="/faq.html" target="_blank" rel="noreferrer">FAQ页面</a>。</p>
+<h2 class="qa-section-title" id="qa">Q&A</h2>
+<h3 id="农业网站是否需要使用专门的agriculturaltaxonomy类型">农业网站是否需要使用专门的AgriculturalTaxonomy类型？</h3>
+<p>不需要。Schema.org确实定义了AgriculturalTaxonomy等农业扩展类型，但它们主要用于学术研究或数据交换场景。对于普通农业企业网站，Organization、Article、Service、Product、FAQ和Breadcrumb这六种核心类型已足够覆盖所有页面需求。使用过于专业的类型反而可能增加部署复杂度和维护成本。</p>
+<h3 id="faq-schema是否适用于所有页面">FAQ Schema是否适用于所有页面？</h3>
+<p>不适用。FAQ Schema只适用于专门的问题列表页面，如“常见问题”板块。普通文章中的零星问答应该使用Article Schema，并在文章正文中自然呈现。将FAQ Schema部署到非问答页面，会被搜索引擎视为内容与Schema不匹配，可能导致富媒体展示被拒绝。</p>
+<p>内容质量与用户价值原则可参考 <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noreferrer">Google Helpful Content 官方文档</a>。</p></div>
+
+
+
+    <section class="article-discovery section-card" aria-labelledby="article-discovery-title">
+      <div class="section-head compact">
+        <div>
+          <p class="eyebrow">继续阅读</p>
+          <h2 id="article-discovery-title">农业行业相关内容</h2>
+        </div>
+        <a class="button secondary" href="../../columns/agriculture/">查看专题全部文章</a>
+      </div>
+      <ul class="article-discovery-list">
+        <li><a href="../../articles/agriculture-37/">农业资料源分级：官方、学术、一手、线索，四级怎么用？</a><span>农业内容真正的引用问题，不是“有没有来源”，而是“来源有没有按层级用”。官方文件可以直接引用，学术研究要有条件引用，一手数据只能限定场景引用，自媒体内容根本不能当依据。任何进入正文的信息，都要带着链接、发布时间、来源层级和复核日期。这四条定下来，页面才谈得上被搜索引擎和 AI 模型信任。</span></li>
+        <li><a href="../../articles/agriculture-36/">农业行业网站的数据与效果承诺，怎么表达才合规？</a><span>农业行业网站的数据表达，长期存在一个结构性矛盾：种植户和采购商需要具体数字来判断产品价值，但农业效果受品种、土壤、气候、管理方式等多变量影响，单一数据很难代表普遍结果。于是许多网站倾向于用&quot;增产30%&quot;&quot;抗病率95%&quot;这类数字吸引点击，却忽略了数据背后的条件限制。</span></li>
+        <li><a href="../../articles/agriculture-35/">农业行业专家与作者页：如何建立可被搜索引擎和AI信任的实体</a><span>农业行业作者页的核心不是个人简介，而是通过可验证的身份、专业范围、贡献记录、利益披露和外部佐证，构建一个能被搜索引擎和AI模型信任的实体。一个合格的作者页应回答四个问题：此人是谁、擅长什么、做过什么、与内容有无利益关联。本文给出农业行业作者页应包含的具体信息模块与检查清单，帮助你直接对照优化。</span></li>
+        <li><a href="../../articles/agriculture-34/">农业行业网站转化率低？问题不在流量，在页面结构</a><span>农业行业网站的转化问题，本质上不是流量问题，而是页面结构问题。多数农业网站只有产品列表和联系方式，缺少中间层的对比与信任内容，导致AI搜索带来的流量无法转化为咨询。用户从了解到决策，需要经历认知、比较、决策三个阶段，每个阶段的信息需求不同，页面配置也应随之变化。</span></li></ul>
+      <div class="article-discovery-actions"><a class="button secondary" href="../../articles/agriculture-33/">农业行业产品与服务分类：按用户任务设计，才能被AI搜索推荐</a><a class="button secondary" href="../../articles/agriculture-32/">农业行业对比页怎么写，才不会变成低质量拉踩</a></div>
+      <nav class="article-discovery-nav" aria-label="站内方法与资料入口">
+        <a href="../../faq.html">常见问题与方法说明</a>
+        <a href="../../services.html">GEO / SEO 服务方案</a>
+        <a href="../../research.html">GEO 论文与研究资料</a>
+      </nav>
+    </section>
+  </div>
+            </article>
+            <aside class="article-actions-panel">
+              <div class="section-head compact">
+                <div>
+                  <p class="eyebrow">Actions</p>
+                  <h2>快捷操作</h2>
+                </div>
+              </div>
+              <div class="action-stack">
+                <a class="button secondary" id="back-column" href="../../index.html">返回专题</a>
+                <a class="button secondary" href="../../index.html">返回首页</a>
+                <button class="button secondary" type="button" data-open-search>站内搜索</button>
+                <button class="button primary" type="button" id="open-editor">修改文章</button>
+              </div>
+              <div class="article-filter-stack" id="article-filter-stack"></div>
+            </aside>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div class="footer-grid">
+          <div class="footer-block">
+            <p class="footer-title">天行GEO</p>
+            <p class="footer-meta">主理人：李哲｜GEO资深专家</p>
+          </div>
+          <div class="footer-block align-right">
+            <p class="footer-meta">联系邮箱：757685550@qq.com</p>
+            <p class="footer-meta">备案号：<a href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer">京ICP备2026050119号-1</a></p>
+            <p class="footer-meta">
+              友情链接：
+              <a href="https://www.wechatsync.com/" target="_blank" rel="noreferrer">一键内容分发</a>
+              /
+              <a href="https://lizhe.work/" target="_blank" rel="noreferrer">作者主页</a>
+              /
+              <a href="https://alice-lizhesite.vercel.app/" target="_blank" rel="noreferrer">Alice 李哲站</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+
+    <div class="drawer hidden" id="editor-drawer" aria-hidden="true">
+      <div class="drawer-panel" role="dialog" aria-modal="true" aria-labelledby="editor-title">
+        <div class="drawer-head">
+          <div>
+            <p class="eyebrow">Authorized Edit</p>
+            <h2 id="editor-title">授权修改文章</h2>
+          </div>
+          <button class="icon-button" type="button" id="editor-close" aria-label="关闭编辑器">关闭</button>
+        </div>
+        <p class="editor-notice" role="note">修改保存在当前浏览器中，用于预览和客户交付，不会覆盖网站源文章或自动发布内容。需要正式发布时，请复制修改内容并进入发布流程。</p>
+        <form class="editor-form" id="editor-form">
+          <label><span>标题</span><input type="text" name="title" required /></label>
+          <label><span>摘要</span><textarea name="excerpt" rows="4" required></textarea></label>
+          <div class="editor-grid">
+            <label><span>分类</span><input type="text" name="category" /></label>
+            <label><span>阅读时长</span><input type="text" name="readTime" /></label>
+          </div>
+          <label><span>正文</span><textarea class="editor-body" name="markdown" rows="18" required></textarea></label>
+          <div class="action-row">
+            <button class="button primary" type="submit">保存本机修改</button>
+            <button class="button secondary" type="button" id="copy-patch">复制交付内容</button>
+            <button class="button secondary" type="button" id="reset-override">恢复网站原文</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div class="search-layer hidden" id="global-search-layer" aria-hidden="true">
+      <div class="search-panel">
+        <div class="search-head">
+          <div>
+            <p class="eyebrow">Global Search</p>
+            <h2>搜索专题与文章</h2>
+          </div>
+          <button class="icon-button" type="button" id="global-search-close" aria-label="关闭搜索" title="关闭搜索"><span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="m6.4 5 5.6 5.6L17.6 5 19 6.4 13.4 12 19 17.6 17.6 19 12 13.4 6.4 19 5 17.6 10.6 12 5 6.4 6.4 5Z"/></svg></span></button>
+        </div>
+        <label class="search-input-wrap">
+          <input id="global-search-input" type="search" placeholder="输入关键词搜索专题、文章、分类" />
+        </label>
+        <div class="search-results-grid">
+          <section>
+            <div class="search-block-title">专题</div>
+            <div class="search-results-list" id="global-search-columns"></div>
+          </section>
+          <section>
+            <div class="search-block-title">文章</div>
+            <div class="search-results-list" id="global-search-articles"></div>
+          </section>
+        </div>
+      </div>
+    </div>
+
+    <script id="article-editor-source" type="application/json">{"slug":"agriculture-19","order":19,"title":"农业行业结构化数据部署指南：六种核心类型与真实字段原则","excerpt":"农业行业网站的结构化数据部署，核心不是“选哪种类型更高级”，而是让Schema类型与页面实际内容严格对应。根据Google官方推荐和实际部署经验，农业网站应优先部署Organization、Article、Service、Product、FAQ和Breadcrumb这六种Schema类型。选择标准只有一个：页面承载什么...","industry":"农业","columnSlug":"agriculture","columnName":"农业行业","company":"","category":"行业GEO","categorySlug":"行业geo","publishedAt":"2026-07-02T05:18:57.562Z","updatedAt":"2026-07-02T05:18:57.562Z","publishedDate":"2026-07-02","publishedDateLabel":"2026年7月2日","year":2026,"month":7,"readTime":"6 分钟","sourceType":"md","heroImage":"","images":[],"visibility":"public","indexable":true,"requiresAuth":false,"seo":{"title":"农业行业结构化数据部署指南：六种核心类型与真实字段原则 | 农业行业 | 天行GEO","description":"农业行业网站的结构化数据部署，核心不是“选哪种类型更高级”，而是让Schema类型与页面实际内容严格对应。根据Google官方推荐和实际部署经验，农业网站应优先部署Organization、Article、Service、Product、FAQ和Breadcrumb这六种Schema类型。选择标准只有一个：页"},"markdown":"农业行业网站的结构化数据部署，核心不是“选哪种类型更高级”，而是让Schema类型与页面实际内容严格对应。根据Google官方推荐和实际部署经验，农业网站应优先部署Organization、Article、Service、Product、FAQ和Breadcrumb这六种Schema类型。选择标准只有一个：页面承载什么信息，就用什么类型。\n\n## 农业网站为何需要结构化数据\n\n结构化数据是搜索引擎和AI模型理解网页内容的标准化接口。Google明确推荐使用JSON-LD格式，因为它独立于HTML，不影响页面渲染，且易于维护。当农业网站正确部署结构化数据后，搜索引擎可以在搜索结果中直接展示企业信息、产品价格、FAQ问答等富媒体片段，提升点击率。\n\n更重要的是，随着AI搜索（如Google SGE、Bing Chat）的普及，结构化数据成为大语言模型提取事实性信息的首选来源。你的网站如果缺少结构化数据，AI在回答用户问题时可能直接跳过你的内容。\n\n但一个常见误区是：为了“看起来专业”而部署过多或错误的Schema类型。农业网站尤其容易犯这个错误——在普通文章页部署Product Schema，或在联系方式页部署Service Schema。这种做法不仅无效，还可能被搜索引擎判定为误导行为。\n\n## 六种核心Schema类型及适用页面\n\n农业行业网站不需要追求复杂的扩展类型（如AgriculturalTaxonomy），核心六种类型已覆盖90%以上的场景。关键在于为每种页面选择正确的类型，并填写真实的字段。\n\n### Organization：公司介绍页、关于我们页\n\n这是农业网站的基础Schema，适用于展示企业名称、Logo、联系方式、地址、社交媒体链接等。字段真实性要点：企业名称必须与营业执照一致，Logo URL指向实际可访问的图片，联系方式中的电话和邮箱必须真实有效。\n\n**常见错误**：在Organization中填写虚假的评分（aggregateRating）或虚假的获奖信息（award）。如果企业确实没有公开评分或奖项，就不要填写这些字段。\n\n### Article：新闻动态、技术文章、行业资讯页\n\n适用于所有内容型页面，包括农业技术文章、行业新闻、种植指南等。字段真实性要点：author（作者）必须是真实姓名或机构名称，datePublished和dateModified必须与实际发布时间一致，image必须指向文章配图。\n\n**边界案例**：一篇转载的农业技术文章，作者是“佚名”或“网络整理”。此时不应填写虚假作者，而应使用publisher字段标明转载来源，或直接省略author字段。\n\n### Service：服务介绍页、业务范围页\n\n适用于展示农业企业提供的具体服务，如种子供应、农技指导、农机租赁、农产品代销等。字段真实性要点：serviceType（服务类型）必须与页面内容对应，areaServed（服务区域）填写实际覆盖的地理范围，provider（服务提供方）指向Organization。\n\n**常见错误**：将整个网站首页部署为Service Schema。首页通常包含多种信息，更适合用Organization或WebSite类型。Service只适用于专门介绍某项服务的独立页面。\n\n### Product：产品详情页、商品列表页\n\n适用于展示具体的农业产品，如种子、化肥、农药、农机、农产品等。字段真实性要点：name（产品名称）必须与页面标题一致，offers.price（价格）必须与页面显示的价格一致，availability（库存状态）必须实时反映实际库存。\n\n**典型陷阱**：农业网站经常在产品页面填写“价格面议”或“电话询价”，却在Schema中填写一个固定价格。这属于虚假字段，一旦被搜索引擎发现，可能导致整个网站的富媒体展示被撤销。\n\n### FAQ：常见问题页、问答板块\n\n适用于集中回答用户高频问题的页面。字段真实性要点：每个问题（question）和答案（answer）必须真实存在于页面中，不能为了凑Schema而编造问题。\n\n**适用边界**：FAQ Schema只适用于专门的问题列表页面，不适用于普通文章中的零星问答。如果你的文章中有两个问答，应该用Article Schema，而不是FAQ Schema。\n\n### Breadcrumb：所有页面\n\n面包屑导航（BreadcrumbList）是唯一建议在所有页面部署的Schema类型。它帮助搜索引擎理解网站层级结构，并在搜索结果中显示面包屑路径。字段真实性要点：每个列表项（item）的URL必须可访问，名称必须与页面标题或导航文字一致。\n\n## 字段真实性：避免虚假信息的陷阱\n\n农业行业网站部署结构化数据时，最容易犯的错误不是技术问题，而是字段真实性问题。搜索引擎和AI模型对结构化数据的信任度很高，一旦发现虚假信息，后果比没有部署更严重。\n\n**虚构评分**：很多农业网站在Organization或Product中填写虚假的aggregateRating（如“5星好评，1000人评价”），但页面中根本没有显示评分功能。Google的算法可以交叉验证页面内容与Schema字段的一致性，一旦发现矛盾，不仅该Schema失效，还可能触发人工审核。\n\n**虚构价格**：农业产品价格波动大，有些网站为了吸引点击，在Product Schema中填写一个低价，但页面实际显示的是“电话询价”或“价格随行情变动”。这种不一致会被搜索引擎视为欺骗行为。\n\n**虚构库存**：在offers.availability字段填写“InStock”，但产品实际已下架或断货。农业行业季节性明显，库存变化快，必须确保Schema字段与实际情况同步更新。\n\n**虚构作者**：在Article Schema中填写一个不存在的专家名字，或者把公司名称写成个人作者。这种做法在AI搜索时代尤其危险——AI模型会直接引用这些信息，一旦被用户发现虚假，企业信誉将受到严重损害。\n\n## 验证工具与常见错误\n\n部署结构化数据后，必须使用专业工具验证。Google Rich Results Test是首选工具，它不仅能检测语法错误，还能预览搜索结果中的富媒体展示效果。Schema.org Validator则适合检查更详细的字段合规性。\n\n农业网站常见的验证错误包括：\n\n**缺少必填字段**：每种Schema类型都有必填字段。例如，Product Schema的name和offers是必填的，Organization的name和logo是必填的。很多农业网站只填写了推荐字段，忽略了必填字段，导致Schema完全无效。\n\n**类型嵌套错误**：例如在Organization中嵌套Product，或者在Article中嵌套Service。正确的做法是：如果页面同时包含多种信息，使用ItemList或WebPage作为顶层类型，再嵌套子类型。\n\n**URL格式错误**：所有URL字段（如image、logo、url）必须是绝对路径，不能使用相对路径。农业网站经常使用相对路径，导致搜索引擎无法解析。\n\n**重复部署**：同一页面部署了多个相同类型的Schema，或者JSON-LD与Microdata混用。Google建议每个页面只使用一种格式，且同一类型只部署一次。\n\n## 部署后的维护与更新策略\n\n结构化数据不是“部署一次就永久有效”的。农业行业信息变化频繁，必须建立持续的维护机制。\n\n**价格变更**：当农产品价格调整时，必须同步更新Product Schema中的offers.price字段。建议通过CMS系统自动生成JSON-LD，确保价格数据从数据库直接读取，避免手动更新遗漏。\n\n**产品下架**：当产品不再销售时，将offers.availability字段改为“OutOfStock”或“Discontinued”，而不是直接删除Schema。这样搜索引擎能理解产品状态，而不是认为页面内容错误。\n\n**FAQ修改**：当常见问题页面更新时，同步修改FAQ Schema中的question和answer。如果问题被删除，也要从Schema中移除对应条目。\n\n**企业信息变更**：当公司地址、电话、Logo等信息变更时，立即更新Organization Schema。搜索引擎会缓存结构化数据，更新后需要一段时间才能生效，因此越早更新越好。\n\n**定期审计**：建议每季度使用Google Rich Results Test对所有核心页面进行一次全面检查，确保Schema字段与页面内容一致。可以使用Google Search Console的结构化数据报告监控错误和警告。\n\n对于需要专业结构化数据部署与审计服务的农业网站，可访问[天行GEO的服务页面](/services.html)获取帮助。更多关于结构化数据的常见问题，请参考[FAQ页面](/faq.html)。\n\n## 常见问题\n\n### 农业网站是否需要使用专门的AgriculturalTaxonomy类型？\n\n不需要。Schema.org确实定义了AgriculturalTaxonomy等农业扩展类型，但它们主要用于学术研究或数据交换场景。对于普通农业企业网站，Organization、Article、Service、Product、FAQ和Breadcrumb这六种核心类型已足够覆盖所有页面需求。使用过于专业的类型反而可能增加部署复杂度和维护成本。\n\n### FAQ Schema是否适用于所有页面？\n\n不适用。FAQ Schema只适用于专门的问题列表页面，如“常见问题”板块。普通文章中的零星问答应该使用Article Schema，并在文章正文中自然呈现。将FAQ Schema部署到非问答页面，会被搜索引擎视为内容与Schema不匹配，可能导致富媒体展示被拒绝。\n\n内容质量与用户价值原则可参考 [Google Helpful Content 官方文档](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)。"}</script>
+    <script src="../../data/content-index.js?v=20260620-editor"></script>
+    <script src="../../data/content-index/agriculture-1.js?v=20260718-sharded"></script>
+    <script src="../../shared/content-utils.js?v=20260614-password-ttl"></script>
+    <script src="../../data-service.js"></script>
+    <script src="../../shared/site-shell.js?v=20260614-password-ttl"></script>
+    <script src="../../article.js?v=20260614-password-ttl"></script>
+  </body>
+</html>

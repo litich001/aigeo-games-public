@@ -1,0 +1,19 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" rx="42" fill="#EAF4FF"/>
+  <rect x="64" y="64" width="1072" height="547" rx="34" fill="white" stroke="#0B5CAD" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="236" cy="216" r="98" fill="#0B5CAD" fill-opacity=".12"/>
+  <circle cx="236" cy="216" r="62" stroke="#0A1630" stroke-width="14"/>
+  <path d="M278 258L344 324" stroke="#0A1630" stroke-width="16" stroke-linecap="round"/>
+  <path d="M156 336C218 306 284 302 356 326" stroke="#F0B35E" stroke-width="13" stroke-linecap="round"/>
+  <path d="M170 186C214 128 294 121 350 170" stroke="#0B5CAD" stroke-width="14" stroke-linecap="round"/>
+  <path d="M337 145L352 172L319 176" stroke="#F0B35E" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="430" y="162" fill="#0B5CAD" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="30" font-weight="700" letter-spacing="3">风险边界 · GEO 问题判断</text>
+  <text x="430" y="246" fill="#0A1630" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="42" font-weight="800">白帽GEO和灰色操纵的边界在哪里</text>
+  <rect x="430" y="432" width="156" height="58" rx="29" fill="#0A1630"/>
+  <text x="508" y="469" text-anchor="middle" fill="white" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="700">问题地图</text>
+  <rect x="616" y="432" width="156" height="58" rx="29" fill="#0B5CAD"/>
+  <text x="694" y="469" text-anchor="middle" fill="white" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="700">内容工程</text>
+  <rect x="802" y="432" width="156" height="58" rx="29" fill="#F0B35E"/>
+  <text x="880" y="469" text-anchor="middle" fill="#0A1630" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="24" font-weight="700">证据系统</text>
+  <text x="430" y="548" fill="#0A1630" fill-opacity=".68" font-family="'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="24">天行GEO · 让结构化内容更容易被搜索引擎与 AI 理解、引用和复核</text>
+</svg>

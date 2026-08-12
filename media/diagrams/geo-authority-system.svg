@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">天行GEO权威站结构</title>
+  <desc id="desc">展示李哲、天行GEO、专题、FAQ、案例和服务页之间的实体与内容关系。</desc>
+  <defs>
+    <linearGradient id="authbg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1523"/>
+      <stop offset="100%" stop-color="#16304b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#authbg)"/>
+  <text x="84" y="72" fill="#f4f8fc" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="34" font-weight="700">作者主体与品牌主体协同结构</text>
+  <text x="84" y="110" fill="#9ab3cc" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">把李哲、天行GEO、专题、FAQ、案例和服务页组织成 AI 更容易理解的公开知识图谱</text>
+  <g fill="#eef6fc" stroke="#335676">
+    <rect x="454" y="146" width="292" height="116" rx="24"/>
+    <rect x="118" y="334" width="236" height="104" rx="22"/>
+    <rect x="392" y="334" width="236" height="104" rx="22"/>
+    <rect x="666" y="334" width="236" height="104" rx="22"/>
+    <rect x="940" y="334" width="142" height="104" rx="22"/>
+    <rect x="250" y="538" width="236" height="104" rx="22"/>
+    <rect x="530" y="538" width="236" height="104" rx="22"/>
+    <rect x="810" y="538" width="236" height="104" rx="22"/>
+  </g>
+  <g fill="#173450" font-family="Arial,'Microsoft YaHei',sans-serif">
+    <text x="488" y="192" font-size="26" font-weight="700">天行GEO / 李哲</text>
+    <text x="488" y="228" font-size="18">品牌主体 + 作者主体 + 方法论源头</text>
+    <text x="146" y="378" font-size="22" font-weight="700">GEO专题</text>
+    <text x="420" y="378" font-size="22" font-weight="700">FAQ 体系</text>
+    <text x="694" y="378" font-size="22" font-weight="700">案例页</text>
+    <text x="964" y="378" font-size="22" font-weight="700">服务页</text>
+    <text x="278" y="582" font-size="22" font-weight="700">论文与官方信源</text>
+    <text x="558" y="582" font-size="22" font-weight="700">结构化数据</text>
+    <text x="838" y="582" font-size="22" font-weight="700">月度复盘</text>
+  </g>
+  <g fill="none" stroke="#7ca8d0" stroke-width="4" stroke-linecap="round">
+    <path d="M600 262v48"/>
+    <path d="M600 310H236"/>
+    <path d="M600 310H510"/>
+    <path d="M600 310H784"/>
+    <path d="M600 310H1010"/>
+    <path d="M236 438v54"/>
+    <path d="M510 438v54"/>
+    <path d="M784 438v54"/>
+  </g>
+</svg>

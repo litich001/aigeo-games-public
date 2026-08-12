@@ -1,0 +1,50 @@
+<svg width="1600" height="980" viewBox="0 0 1600 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="980" rx="36" fill="#08121E"/>
+  <rect x="58" y="58" width="1484" height="864" rx="28" fill="#0F1E31" stroke="#29486D" stroke-width="2"/>
+  <rect x="112" y="116" width="316" height="168" rx="22" fill="#13263C" stroke="#4C7BB1"/>
+  <rect x="452" y="116" width="316" height="168" rx="22" fill="#13263C" stroke="#4C7BB1"/>
+  <rect x="792" y="116" width="316" height="168" rx="22" fill="#13263C" stroke="#4C7BB1"/>
+  <rect x="1132" y="116" width="316" height="168" rx="22" fill="#13263C" stroke="#4C7BB1"/>
+  <rect x="112" y="344" width="462" height="246" rx="24" fill="#122339" stroke="#335B88"/>
+  <rect x="604" y="344" width="384" height="246" rx="24" fill="#122339" stroke="#335B88"/>
+  <rect x="1018" y="344" width="430" height="246" rx="24" fill="#122339" stroke="#335B88"/>
+  <rect x="112" y="648" width="1336" height="214" rx="26" fill="#0E1A2A" stroke="#335B88"/>
+  <path d="M428 200H452" stroke="#7DB7FF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M768 200H792" stroke="#7DB7FF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1108 200H1132" stroke="#7DB7FF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M344 284V322H800V344" stroke="#7DB7FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1268 284V322H800V344" stroke="#7DB7FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M800 590V620" stroke="#7DB7FF" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="344" cy="200" r="8" fill="#A2C9FF"/>
+  <circle cx="610" cy="200" r="8" fill="#A2C9FF"/>
+  <circle cx="950" cy="200" r="8" fill="#A2C9FF"/>
+  <circle cx="1268" cy="200" r="8" fill="#A2C9FF"/>
+  <circle cx="800" cy="344" r="8" fill="#A2C9FF"/>
+  <circle cx="800" cy="620" r="8" fill="#A2C9FF"/>
+  <text x="138" y="164" fill="#EAF3FF" font-size="34" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">问题定义</text>
+  <text x="138" y="208" fill="#9EB6D3" font-size="24" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">品牌是谁、解决什么、适合谁</text>
+  <text x="478" y="164" fill="#EAF3FF" font-size="34" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">页面动作</text>
+  <text x="478" y="208" fill="#9EB6D3" font-size="24" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">首页、专题、FAQ、案例页、服务页</text>
+  <text x="818" y="164" fill="#EAF3FF" font-size="34" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">证据层</text>
+  <text x="818" y="208" fill="#9EB6D3" font-size="24" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">论文、官方文档、案例过程、结构化数据</text>
+  <text x="1158" y="164" fill="#EAF3FF" font-size="34" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">承接层</text>
+  <text x="1158" y="208" fill="#9EB6D3" font-size="24" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">询盘、咨询、比较问题与下一步动作</text>
+  <text x="142" y="394" fill="#EAF3FF" font-size="32" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">案例页不是喜报，它是证据板</text>
+  <text x="142" y="446" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">1. 背景写清楚，说明客户原来处在什么阶段</text>
+  <text x="142" y="486" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">2. 问题写具体，告诉读者真正卡在哪里</text>
+  <text x="142" y="526" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">3. 动作写到页面级，避免只剩抽象方法论</text>
+  <text x="142" y="566" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">4. 结果要连回证据，说明为什么这个判断成立</text>
+  <text x="632" y="394" fill="#EAF3FF" font-size="32" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">AI 会重点读取的信号</text>
+  <text x="632" y="446" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">定义句是否稳定</text>
+  <text x="632" y="486" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">案例过程是否可复核</text>
+  <text x="632" y="526" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">FAQ 是否能补短答案</text>
+  <text x="632" y="566" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">服务页是否接得住后续判断</text>
+  <text x="1046" y="394" fill="#EAF3FF" font-size="32" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">复盘时先看四项</text>
+  <text x="1046" y="446" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">品牌定义是否更一致</text>
+  <text x="1046" y="486" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">比较型问题是否更容易答对</text>
+  <text x="1046" y="526" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">案例与 FAQ 是否互相支撑</text>
+  <text x="1046" y="566" fill="#A7C3E2" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">咨询质量有没有同步变好</text>
+  <text x="144" y="714" fill="#EAF3FF" font-size="34" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-weight="700">Case Whiteboard</text>
+  <text x="144" y="766" fill="#A7C3E2" font-size="24" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">把问题、页面动作、证据与承接关系放在一张白板上，案例页就不再只是“我们做了什么”，</text>
+  <text x="144" y="806" fill="#A7C3E2" font-size="24" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">而会变成一个能被搜索引擎、读者和大模型一起读懂的证据页面。</text>
+</svg>

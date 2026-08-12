@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">天行GEO方法论蓝图</title>
+  <desc id="desc">展示天行GEO从问题地图、主源页面、证据链到月度复盘的四层执行框架。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#08111d"/>
+      <stop offset="100%" stop-color="#15324f"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="100%" stop-color="#e8f1fa"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#6eb6ff"/>
+      <stop offset="100%" stop-color="#f0b662"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <g opacity="0.18" stroke="#8bb4dc">
+    <path d="M108 132h1384"/>
+    <path d="M108 772h1384"/>
+    <path d="M108 264h1384"/>
+    <path d="M108 510h1384"/>
+  </g>
+
+  <text x="112" y="86" fill="#f4f8fd" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="38" font-weight="700">天行GEO 方法论蓝图</text>
+  <text x="112" y="124" fill="#9eb7d0" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="20">把中文 GEO 从概念翻译成可执行的页面工程、证据工程与复盘工程</text>
+
+  <g transform="translate(112 190)">
+    <rect width="296" height="228" rx="28" fill="url(#card)"/>
+    <text x="28" y="50" fill="#10304e" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="22" font-weight="700">01 问题地图</text>
+    <text x="28" y="92" fill="#35516c" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">真实用户会怎么问</text>
+    <text x="28" y="126" fill="#35516c" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">哪些问题值得长期写</text>
+    <text x="28" y="160" fill="#35516c" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">FAQ 入口如何回流主站</text>
+    <rect x="28" y="184" width="174" height="12" rx="6" fill="#d7e6f4"/>
+    <rect x="28" y="184" width="122" height="12" rx="6" fill="#62afff"/>
+  </g>
+
+  <g transform="translate(454 190)">
+    <rect width="438" height="228" rx="28" fill="url(#card)"/>
+    <text x="30" y="50" fill="#10304e" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="22" font-weight="700">02 主源页面工程</text>
+    <text x="30" y="92" fill="#35516c" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">首页定义句、专题导航、服务页、案例页、作者页</text>
+    <text x="30" y="126" fill="#35516c" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">FAQ、结构化数据、llms.txt、sitemap 一起组成主源</text>
+    <text x="30" y="160" fill="#35516c" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">目标不是页面变多，而是品牌表达更清楚、更可引用</text>
+    <rect x="30" y="186" width="258" height="12" rx="6" fill="#d7e6f4"/>
+    <rect x="30" y="186" width="206" height="12" rx="6" fill="#4fa3f8"/>
+  </g>
+
+  <g transform="translate(938 190)">
+    <rect width="550" height="228" rx="28" fill="url(#card)"/>
+    <text x="32" y="50" fill="#10304e" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="22" font-weight="700">03 证据链设计</text>
+    <text x="32" y="92" fill="#35516c" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">论文、官方文档、案例口径、数据出处与风险边界必须公开</text>
+    <text x="32" y="126" fill="#35516c" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">可复核的证据越充分，AI 越容易稳定引用，而不是只给你一个链接</text>
+    <text x="32" y="160" fill="#35516c" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">这一步决定内容是营销话术，还是能长期沉淀的可信主源</text>
+    <rect x="32" y="186" width="308" height="12" rx="6" fill="#d7e6f4"/>
+    <rect x="32" y="186" width="252" height="12" rx="6" fill="#f0b662"/>
+  </g>
+
+  <g transform="translate(112 514)">
+    <rect width="1376" height="188" rx="32" fill="#0f2238" stroke="#3b6488"/>
+    <text x="34" y="52" fill="#f4f8fd" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="24" font-weight="700">04 月度复盘与 AI 搜索诊断</text>
+    <text x="34" y="98" fill="#a6bfd6" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">品牌是否出现、引用是否准确、服务边界是否被讲对、FAQ 是否承接住新追问、哪些页面应该继续回收</text>
+    <text x="34" y="132" fill="#a6bfd6" font-family="Arial,'Microsoft YaHei',sans-serif" font-size="18">复盘不是看一张截图，而是把 AI 回答里的新增误解、漏引与高频追问重新回流到首页、专题、FAQ、案例和服务页</text>
+
+    <g transform="translate(34 150)">
+      <rect width="204" height="14" rx="7" fill="#274d73"/>
+      <rect x="230" width="244" height="14" rx="7" fill="#316896"/>
+      <rect x="488" width="274" height="14" rx="7" fill="#4a92ce"/>
+      <rect x="776" width="280" height="14" rx="7" fill="#78baff"/>
+      <rect x="1070" width="272" height="14" rx="7" fill="#f0b662"/>
+    </g>
+  </g>
+
+  <g fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round">
+    <path d="M408 304h28"/>
+    <path d="M892 304h28"/>
+    <path d="M800 430v58"/>
+  </g>
+</svg>

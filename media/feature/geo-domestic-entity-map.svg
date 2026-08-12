@@ -1,0 +1,35 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="36" fill="#F6FAFD"/>
+  <rect x="60" y="58" width="1080" height="644" rx="28" fill="white" stroke="#D7E3EF" stroke-width="2"/>
+  <text x="92" y="114" fill="#10243D" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="34" font-weight="700">主体一致性示意图</text>
+  <text x="92" y="154" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="20">品牌名、作者名、机构信息和联系方式要能在多个页面互相印证。</text>
+
+  <rect x="454" y="132" width="292" height="104" rx="26" fill="#0F3B77"/>
+  <text x="545" y="190" fill="white" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="34" font-weight="700">品牌主体</text>
+  <text x="507" y="220" fill="#DCEBFF" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="20">天行GEO / 机构名称 / 核心定义</text>
+
+  <rect x="118" y="330" width="240" height="110" rx="24" fill="#EEF5FC" stroke="#C8D9EB" stroke-width="2"/>
+  <text x="196" y="386" fill="#173B68" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700">首页</text>
+  <text x="148" y="418" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">一句话定义、导航关系、核心入口</text>
+
+  <rect x="404" y="330" width="240" height="110" rx="24" fill="#EEF5FC" stroke="#C8D9EB" stroke-width="2"/>
+  <text x="470" y="386" fill="#173B68" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700">关于页</text>
+  <text x="434" y="418" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">作者履历、方法说明、联系方式</text>
+
+  <rect x="690" y="330" width="240" height="110" rx="24" fill="#EEF5FC" stroke="#C8D9EB" stroke-width="2"/>
+  <text x="756" y="386" fill="#173B68" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700">案例页</text>
+  <text x="724" y="418" fill="#5B7088" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">证据链、适用边界、结果解释</text>
+
+  <rect x="268" y="514" width="240" height="110" rx="24" fill="#FFF4E4" stroke="#F1C57B" stroke-width="2"/>
+  <text x="346" y="570" fill="#8A5411" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700">服务页</text>
+  <text x="300" y="602" fill="#7A664A" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">服务对象、交付内容、咨询入口</text>
+
+  <rect x="624" y="514" width="240" height="110" rx="24" fill="#FFF4E4" stroke="#F1C57B" stroke-width="2"/>
+  <text x="702" y="570" fill="#8A5411" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="30" font-weight="700">结构化数据</text>
+  <text x="650" y="602" fill="#7A664A" font-family="'Noto Sans SC','Microsoft YaHei',sans-serif" font-size="18">Organization、Person、Article 一致</text>
+
+  <path d="M600 236V300" stroke="#9DB6D3" stroke-width="6" stroke-linecap="round"/>
+  <path d="M238 330C316 290 404 262 480 236" stroke="#9DB6D3" stroke-width="6" stroke-linecap="round"/>
+  <path d="M810 330C734 290 694 262 618 236" stroke="#9DB6D3" stroke-width="6" stroke-linecap="round"/>
+  <path d="M524 440L420 514" stroke="#E5B363" stroke-width="6" stroke-linecap="round"/>
+  <path d="M674 440L744 514" stroke="#E5B363" stroke-width="6" stroke-linecap="round"/>

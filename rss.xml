@@ -5,6 +5,13 @@
     <link>https://aigeo.games</link>
     <description>天行GEO长期研究中文 GEO、SEO 与 AI 搜索优化，重点写作主源建设、FAQ 体系、案例证据链、服务页设计、结构化数据与内容知识库。</description>
     <item>
+      <title>曝光涨了点击却降了？GEO 与 AI 搜索时代的诊断清单</title>
+      <link>https://aigeo.games/articles/geo-special-167/</link>
+      <description>曝光量上升而点击率下降，是搜索表现数据里最容易被误读的信号之一。它通常不代表你的内容变差了，而是搜索意图、展示形态或 AI 摘要介入改变了用户的点击路径。要解决这个问题，你需要先确认曝光增长的真实来源，再按查询意图、结构化数据和实体覆盖三个层面重新诊断，而不是急着改标题或堆内容。</description>
+      <pubDate>Thu, 13 Aug 2026 03:35:48 GMT</pubDate>
+      <guid>https://aigeo.games/articles/geo-special-167/</guid>
+    </item>
+    <item>
       <title>当营销负责人回答不了这三个问题，GEO 提案就过不了预算审批</title>
       <link>https://aigeo.games/articles/geo-special-166/</link>
       <description>TransUnion 对 100 位营销负责人的调查，给所有做 GEO 提案的人提了一个醒：AI 搜索的测量盲区，和当年围墙花园（walled garden）的测量缺口几乎一样。Facebook、Google Ads 这些封闭广告系统曾经让品牌方无法验证预算的真实效果，如今同样的不确定性正在 AI 搜索领域重演。</description>
@@ -136,13 +143,6 @@
       <description>先给结论：GEO 内容日历不应只是每周发几篇文章。更有效的排法，是先列真实问题，再为每个问题分配定义页、方法页、FAQ、案例页和服务页等角色，最后按用户决策顺序安排发布。</description>
       <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
       <guid>https://aigeo.games/articles/geo-special-152/</guid>
-    </item>
-    <item>
-      <title>GEO小预算试点怎么做：用四周实验验证页面改造是否值得扩大</title>
-      <link>https://aigeo.games/articles/shitu-geo-112/</link>
-      <description>先给结论：预算有限时，不要同时改首页、几十篇文章和所有平台。更稳妥的做法，是选择一个问题簇、三到五个页面和四周观察窗口，先验证页面改造、抓取发现、问题覆盖和有效行动是否连得起来。</description>
-      <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
-      <guid>https://aigeo.games/articles/shitu-geo-112/</guid>
     </item>
   </channel>
 </rss>

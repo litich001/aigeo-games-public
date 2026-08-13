@@ -7,6 +7,14 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "https://aigeo.games/articles/geo-special-167/",
+      "url": "https://aigeo.games/articles/geo-special-167/",
+      "title": "曝光涨了点击却降了？GEO 与 AI 搜索时代的诊断清单",
+      "content_text": "曝光量上升而点击率下降，是搜索表现数据里最容易被误读的信号之一。它通常不代表你的内容变差了，而是搜索意图、展示形态或 AI 摘要介入改变了用户的点击路径。要解决这个问题，你需要先确认曝光增长的真实来源，再按查询意图、结构化数据和实体覆盖三个层面重新诊断，而不是急着改标题或堆内容。",
+      "date_published": "2026-08-13T03:35:48.380Z",
+      "date_modified": "2026-08-13T03:35:48.380Z"
+    },
+    {
       "id": "https://aigeo.games/articles/geo-special-166/",
       "url": "https://aigeo.games/articles/geo-special-166/",
       "title": "当营销负责人回答不了这三个问题，GEO 提案就过不了预算审批",
@@ -237,14 +245,6 @@
       "content_text": "家居生活网站的搜索入口很多，但内容和决策对不上。用户搜“什么是全屋定制”，被带到服务页；搜“儿童房地板哪种好”，看不到参数对比；搜“某公司全屋定制怎么样”，找不到可验证案例。跳出率高、咨询少，通常不是内容不够，而是页面之间没有形成一条从认知到转化的路径。",
       "date_published": "2026-08-06T05:21:28.156Z",
       "date_modified": "2026-08-06T05:21:28.156Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/mother-baby-38/",
-      "url": "https://aigeo.games/articles/mother-baby-38/",
-      "title": "母婴育儿作者页怎么建立可信实体：身份、范围与证据链",
-      "content_text": "母婴育儿作者页不是“关于我”的装饰页，而是搜索引擎和 AI 搜索判断一个人是否真实、专业、值得信任的关键证据页。一个能被正确识别的作者页，应当至少包含五类可交叉验证的信息：可溯源的实名身份、界定清楚的专业范围与执业边界、能独立核验的贡献记录、来自第三方渠道的外部佐证，以及持续更新的利益关系披露。这五类信息彼此印证，才能...",
-      "date_published": "2026-08-06T05:15:32.311Z",
-      "date_modified": "2026-08-06T05:15:32.311Z"
     }
   ]
 }

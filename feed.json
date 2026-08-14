@@ -7,6 +7,14 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "https://aigeo.games/articles/geo-special-168/",
+      "url": "https://aigeo.games/articles/geo-special-168/",
+      "title": "Google 有流量、Bing 没有？GEO 视角下的搜索引擎差异与应对策略",
+      "content_text": "Google 一周内就有稳定流量，Bing 却只有零星曝光。这不是你的网站出了问题，而是两大搜索引擎的索引逻辑、排名信号和用户意图本就不同。GEO（生成式引擎优化）策略必须针对不同引擎定制，而非一套方案通吃。",
+      "date_published": "2026-08-14T03:33:50.599Z",
+      "date_modified": "2026-08-14T03:33:50.599Z"
+    },
+    {
       "id": "https://aigeo.games/articles/geo-special-167/",
       "url": "https://aigeo.games/articles/geo-special-167/",
       "title": "曝光涨了点击却降了？GEO 与 AI 搜索时代的诊断清单",
@@ -237,14 +245,6 @@
       "content_text": "生活服务网站想避免夸大数据与效果承诺，核心不是把数字从页面上抹掉，而是把“98%满意”“行业第一”“0失败”这类模糊口号，改写成口径清晰、来源可查、标明统计时间与适用边界、并有人定期复核的公开事实。这既是为了降低广告法与平台规则的处罚风险，也是为了让AI搜索引擎在信息比对中更容易把你判定为可信来源。",
       "date_published": "2026-08-06T05:27:01.650Z",
       "date_modified": "2026-08-06T05:27:01.650Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/home-living-36/",
-      "url": "https://aigeo.games/articles/home-living-36/",
-      "title": "家居网站从搜索到咨询，页面层级怎么搭",
-      "content_text": "家居生活网站的搜索入口很多，但内容和决策对不上。用户搜“什么是全屋定制”，被带到服务页；搜“儿童房地板哪种好”，看不到参数对比；搜“某公司全屋定制怎么样”，找不到可验证案例。跳出率高、咨询少，通常不是内容不够，而是页面之间没有形成一条从认知到转化的路径。",
-      "date_published": "2026-08-06T05:21:28.156Z",
-      "date_modified": "2026-08-06T05:21:28.156Z"
     }
   ]
 }

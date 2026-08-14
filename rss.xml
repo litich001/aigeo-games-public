@@ -5,6 +5,13 @@
     <link>https://aigeo.games</link>
     <description>天行GEO长期研究中文 GEO、SEO 与 AI 搜索优化，重点写作主源建设、FAQ 体系、案例证据链、服务页设计、结构化数据与内容知识库。</description>
     <item>
+      <title>Google 有流量、Bing 没有？GEO 视角下的搜索引擎差异与应对策略</title>
+      <link>https://aigeo.games/articles/geo-special-168/</link>
+      <description>Google 一周内就有稳定流量，Bing 却只有零星曝光。这不是你的网站出了问题，而是两大搜索引擎的索引逻辑、排名信号和用户意图本就不同。GEO（生成式引擎优化）策略必须针对不同引擎定制，而非一套方案通吃。</description>
+      <pubDate>Fri, 14 Aug 2026 03:33:50 GMT</pubDate>
+      <guid>https://aigeo.games/articles/geo-special-168/</guid>
+    </item>
+    <item>
       <title>曝光涨了点击却降了？GEO 与 AI 搜索时代的诊断清单</title>
       <link>https://aigeo.games/articles/geo-special-167/</link>
       <description>曝光量上升而点击率下降，是搜索表现数据里最容易被误读的信号之一。它通常不代表你的内容变差了，而是搜索意图、展示形态或 AI 摘要介入改变了用户的点击路径。要解决这个问题，你需要先确认曝光增长的真实来源，再按查询意图、结构化数据和实体覆盖三个层面重新诊断，而不是急着改标题或堆内容。</description>
@@ -136,13 +143,6 @@
       <description>先给结论：AI 搜索没有提到品牌，不应马上归因于关键词不够多。应按四层排查：页面是否能被发现和读取、品牌实体是否定义清楚、页面是否提供证据、竞争页面是否更完整。</description>
       <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
       <guid>https://aigeo.games/articles/shitu-geo-113/</guid>
-    </item>
-    <item>
-      <title>GEO内容日历怎么排：按搜索意图和页面角色安排季度主题</title>
-      <link>https://aigeo.games/articles/geo-special-152/</link>
-      <description>先给结论：GEO 内容日历不应只是每周发几篇文章。更有效的排法，是先列真实问题，再为每个问题分配定义页、方法页、FAQ、案例页和服务页等角色，最后按用户决策顺序安排发布。</description>
-      <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
-      <guid>https://aigeo.games/articles/geo-special-152/</guid>
     </item>
   </channel>
 </rss>

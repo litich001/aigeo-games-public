@@ -22,7 +22,8 @@
 ## 专题与文章
 ### GEO专题
 URL: https://aigeo.games/columns/geo-special/
-文章数: 162
+文章数: 163
+- Google 有流量、Bing 没有？GEO 视角下的搜索引擎差异与应对策略: https://aigeo.games/articles/geo-special-168/
 - 曝光涨了点击却降了？GEO 与 AI 搜索时代的诊断清单: https://aigeo.games/articles/geo-special-167/
 - 当营销负责人回答不了这三个问题，GEO 提案就过不了预算审批: https://aigeo.games/articles/geo-special-166/
 - 新产品如何打破 AI 搜索冷启动循环: https://aigeo.games/articles/geo-special-165/

@@ -7,6 +7,14 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "https://aigeo.games/articles/geo-special-169/",
+      "url": "https://aigeo.games/articles/geo-special-169/",
+      "title": "Backlinks 在 GEO 时代还值钱吗？链接建设的新逻辑与实操路径",
+      "content_text": "Reddit r/SEO 上有人提问：\"我需要超过 1000 个 backlinks，请指导我。\"这个问题的前提本身就值得审视。提问者把链接数量当成了目标，但搜索引擎和 AI 模型对链接的评估方式已经发生了结构性变化。在 GEO 与 AI 搜索时代，backlinks 没有失效，但\"数量即权重\"的旧逻辑已经过时——10...",
+      "date_published": "2026-08-15T02:23:14.208Z",
+      "date_modified": "2026-08-15T02:23:14.208Z"
+    },
+    {
       "id": "https://aigeo.games/articles/geo-special-168/",
       "url": "https://aigeo.games/articles/geo-special-168/",
       "title": "Google 有流量、Bing 没有？GEO 视角下的搜索引擎差异与应对策略",
@@ -237,14 +245,6 @@
       "content_text": "选择 Schema 类型，不能按“咖啡茶饮行业”这个标签去套模板，而要根据每个页面的真实内容与核心意图来判断。品牌官网首页用 Organization，商品销售页用 Product，培训、租赁、团购服务页用 Service，行业文章用 Article，页面有真实可见的问答才用 FAQPage，全站加 Breadcrum...",
       "date_published": "2026-08-06T05:30:05.059Z",
       "date_modified": "2026-08-06T05:30:05.059Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/lifestyle-38/",
-      "url": "https://aigeo.games/articles/lifestyle-38/",
-      "title": "生活服务内容中的数据和效果承诺怎么合规表达",
-      "content_text": "生活服务网站想避免夸大数据与效果承诺，核心不是把数字从页面上抹掉，而是把“98%满意”“行业第一”“0失败”这类模糊口号，改写成口径清晰、来源可查、标明统计时间与适用边界、并有人定期复核的公开事实。这既是为了降低广告法与平台规则的处罚风险，也是为了让AI搜索引擎在信息比对中更容易把你判定为可信来源。",
-      "date_published": "2026-08-06T05:27:01.650Z",
-      "date_modified": "2026-08-06T05:27:01.650Z"
     }
   ]
 }

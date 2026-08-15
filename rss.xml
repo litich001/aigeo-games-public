@@ -5,6 +5,13 @@
     <link>https://aigeo.games</link>
     <description>天行GEO长期研究中文 GEO、SEO 与 AI 搜索优化，重点写作主源建设、FAQ 体系、案例证据链、服务页设计、结构化数据与内容知识库。</description>
     <item>
+      <title>Backlinks 在 GEO 时代还值钱吗？链接建设的新逻辑与实操路径</title>
+      <link>https://aigeo.games/articles/geo-special-169/</link>
+      <description>Reddit r/SEO 上有人提问：&quot;我需要超过 1000 个 backlinks，请指导我。&quot;这个问题的前提本身就值得审视。提问者把链接数量当成了目标，但搜索引擎和 AI 模型对链接的评估方式已经发生了结构性变化。在 GEO 与 AI 搜索时代，backlinks 没有失效，但&quot;数量即权重&quot;的旧逻辑已经过时——10...</description>
+      <pubDate>Sat, 15 Aug 2026 02:23:14 GMT</pubDate>
+      <guid>https://aigeo.games/articles/geo-special-169/</guid>
+    </item>
+    <item>
       <title>Google 有流量、Bing 没有？GEO 视角下的搜索引擎差异与应对策略</title>
       <link>https://aigeo.games/articles/geo-special-168/</link>
       <description>Google 一周内就有稳定流量，Bing 却只有零星曝光。这不是你的网站出了问题，而是两大搜索引擎的索引逻辑、排名信号和用户意图本就不同。GEO（生成式引擎优化）策略必须针对不同引擎定制，而非一套方案通吃。</description>
@@ -136,13 +143,6 @@
       <description>先给结论：面向采购、老板或高客单客户的官网证据页，不应只展示口号和案例标题。它需要让读者快速核查服务对象、交付范围、方法、边界、数据口径、时间节点和责任人。</description>
       <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
       <guid>https://aigeo.games/articles/geo-special-153/</guid>
-    </item>
-    <item>
-      <title>AI搜索没有品牌怎么办：按抓取、实体、证据和竞争四层排查</title>
-      <link>https://aigeo.games/articles/shitu-geo-113/</link>
-      <description>先给结论：AI 搜索没有提到品牌，不应马上归因于关键词不够多。应按四层排查：页面是否能被发现和读取、品牌实体是否定义清楚、页面是否提供证据、竞争页面是否更完整。</description>
-      <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
-      <guid>https://aigeo.games/articles/shitu-geo-113/</guid>
     </item>
   </channel>
 </rss>

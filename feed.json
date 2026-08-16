@@ -7,6 +7,14 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "https://aigeo.games/articles/geo-special-170/",
+      "url": "https://aigeo.games/articles/geo-special-170/",
+      "title": "报告外链：新站没有排名，凭什么让媒体和 AI 主动引用你",
+      "content_text": "新站做外链，最常见的死循环是：没有排名，所以换不来外链；没有外链，所以排名起不来。",
+      "date_published": "2026-08-16T02:37:43.475Z",
+      "date_modified": "2026-08-16T02:37:43.475Z"
+    },
+    {
       "id": "https://aigeo.games/articles/geo-special-169/",
       "url": "https://aigeo.games/articles/geo-special-169/",
       "title": "Backlinks 在 GEO 时代还值钱吗？链接建设的新逻辑与实操路径",
@@ -237,14 +245,6 @@
       "content_text": "鲜花园艺网站的信任建设，核心是公开四类可核查的证据：真实经营主体与联系方式、可追溯的服务案例、有出处的专业内容、明确划定的隐私边界。这四类证据构成一条能被搜索引擎和大模型交叉验证的证据链，用户下单前有据可查，AI引用时也更倾向于选择这类来源。",
       "date_published": "2026-08-06T05:33:59.747Z",
       "date_modified": "2026-08-06T05:33:59.747Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/coffee-37/",
-      "url": "https://aigeo.games/articles/coffee-37/",
-      "title": "咖啡茶饮网站的结构化数据，先按主实体选类型",
-      "content_text": "选择 Schema 类型，不能按“咖啡茶饮行业”这个标签去套模板，而要根据每个页面的真实内容与核心意图来判断。品牌官网首页用 Organization，商品销售页用 Product，培训、租赁、团购服务页用 Service，行业文章用 Article，页面有真实可见的问答才用 FAQPage，全站加 Breadcrum...",
-      "date_published": "2026-08-06T05:30:05.059Z",
-      "date_modified": "2026-08-06T05:30:05.059Z"
     }
   ]
 }

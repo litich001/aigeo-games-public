@@ -5,6 +5,13 @@
     <link>https://aigeo.games</link>
     <description>天行GEO长期研究中文 GEO、SEO 与 AI 搜索优化，重点写作主源建设、FAQ 体系、案例证据链、服务页设计、结构化数据与内容知识库。</description>
     <item>
+      <title>报告外链：新站没有排名，凭什么让媒体和 AI 主动引用你</title>
+      <link>https://aigeo.games/articles/geo-special-170/</link>
+      <description>新站做外链，最常见的死循环是：没有排名，所以换不来外链；没有外链，所以排名起不来。</description>
+      <pubDate>Sun, 16 Aug 2026 02:37:43 GMT</pubDate>
+      <guid>https://aigeo.games/articles/geo-special-170/</guid>
+    </item>
+    <item>
       <title>Backlinks 在 GEO 时代还值钱吗？链接建设的新逻辑与实操路径</title>
       <link>https://aigeo.games/articles/geo-special-169/</link>
       <description>Reddit r/SEO 上有人提问：&quot;我需要超过 1000 个 backlinks，请指导我。&quot;这个问题的前提本身就值得审视。提问者把链接数量当成了目标，但搜索引擎和 AI 模型对链接的评估方式已经发生了结构性变化。在 GEO 与 AI 搜索时代，backlinks 没有失效，但&quot;数量即权重&quot;的旧逻辑已经过时——10...</description>
@@ -136,13 +143,6 @@
       <description>先给结论：季度复盘应同时看技术可见性、问题覆盖、回答准确性、引用质量、自然搜索行为和有效咨询。品牌出现率只能说明一种观察结果，不能单独证明流量、信任或成交增长。</description>
       <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
       <guid>https://aigeo.games/articles/geo-special-154/</guid>
-    </item>
-    <item>
-      <title>官网证据页怎么写给采购核查：把服务承诺拆成可验证字段</title>
-      <link>https://aigeo.games/articles/geo-special-153/</link>
-      <description>先给结论：面向采购、老板或高客单客户的官网证据页，不应只展示口号和案例标题。它需要让读者快速核查服务对象、交付范围、方法、边界、数据口径、时间节点和责任人。</description>
-      <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
-      <guid>https://aigeo.games/articles/geo-special-153/</guid>
     </item>
   </channel>
 </rss>

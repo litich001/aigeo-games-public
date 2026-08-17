@@ -5,6 +5,13 @@
     <link>https://aigeo.games</link>
     <description>天行GEO长期研究中文 GEO、SEO 与 AI 搜索优化，重点写作主源建设、FAQ 体系、案例证据链、服务页设计、结构化数据与内容知识库。</description>
     <item>
+      <title>.xxx 域名做 SEO 和 GEO，到底行不行</title>
+      <link>https://aigeo.games/articles/geo-special-171/</link>
+      <description>一个做企业软件的朋友问我，公司注册了 yourbrand.xxx 做品牌保护，现在想拿它当主站，问我行不行。我的回答是：技术上能跑，商业上不划算。</description>
+      <pubDate>Mon, 17 Aug 2026 02:35:38 GMT</pubDate>
+      <guid>https://aigeo.games/articles/geo-special-171/</guid>
+    </item>
+    <item>
       <title>报告外链：新站没有排名，凭什么让媒体和 AI 主动引用你</title>
       <link>https://aigeo.games/articles/geo-special-170/</link>
       <description>新站做外链，最常见的死循环是：没有排名，所以换不来外链；没有外链，所以排名起不来。</description>
@@ -136,13 +143,6 @@
       <description>先给结论：多平台内容不应该复制粘贴，也不应该为每个平台编造不同事实。统一的是品牌主体、服务范围、证据和更新时间；可以调整的是问题表达、页面结构、案例深度和用户下一步。</description>
       <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
       <guid>https://aigeo.games/articles/shitu-geo-115/</guid>
-    </item>
-    <item>
-      <title>GEO季度复盘看哪些指标：不要只看品牌出现率</title>
-      <link>https://aigeo.games/articles/geo-special-154/</link>
-      <description>先给结论：季度复盘应同时看技术可见性、问题覆盖、回答准确性、引用质量、自然搜索行为和有效咨询。品牌出现率只能说明一种观察结果，不能单独证明流量、信任或成交增长。</description>
-      <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
-      <guid>https://aigeo.games/articles/geo-special-154/</guid>
     </item>
   </channel>
 </rss>

@@ -7,6 +7,14 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "https://aigeo.games/articles/geo-special-171/",
+      "url": "https://aigeo.games/articles/geo-special-171/",
+      "title": ".xxx 域名做 SEO 和 GEO，到底行不行",
+      "content_text": "一个做企业软件的朋友问我，公司注册了 yourbrand.xxx 做品牌保护，现在想拿它当主站，问我行不行。我的回答是：技术上能跑，商业上不划算。",
+      "date_published": "2026-08-17T02:35:38.702Z",
+      "date_modified": "2026-08-17T02:35:38.702Z"
+    },
+    {
       "id": "https://aigeo.games/articles/geo-special-170/",
       "url": "https://aigeo.games/articles/geo-special-170/",
       "title": "报告外链：新站没有排名，凭什么让媒体和 AI 主动引用你",
@@ -237,14 +245,6 @@
       "content_text": "评估GEO对业务转化的影响，核心不在于看最后一次点击来自哪里，而在于建立一套多维证据链：着陆页行为、查询意图、品牌提及、咨询记录和辅助转化共同构成归因依据。只盯最后点击，会系统性低估GEO在用户决策早期的作用；完全不看数据，又会把品牌广告和自然搜索的功劳误算给GEO。本文给出可落地的归因框架，帮你分清真实贡献。",
       "date_published": "2026-08-06T11:00:05.818Z",
       "date_modified": "2026-08-06T11:00:05.818Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/flowers-38/",
-      "url": "https://aigeo.games/articles/flowers-38/",
-      "title": "鲜花园艺网站如何建立可核查的信任证据",
-      "content_text": "鲜花园艺网站的信任建设，核心是公开四类可核查的证据：真实经营主体与联系方式、可追溯的服务案例、有出处的专业内容、明确划定的隐私边界。这四类证据构成一条能被搜索引擎和大模型交叉验证的证据链，用户下单前有据可查，AI引用时也更倾向于选择这类来源。",
-      "date_published": "2026-08-06T05:33:59.747Z",
-      "date_modified": "2026-08-06T05:33:59.747Z"
     }
   ]
 }

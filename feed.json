@@ -7,6 +7,14 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "https://aigeo.games/articles/geo-special-172/",
+      "url": "https://aigeo.games/articles/geo-special-172/",
+      "title": "SEOQuake 大改版砍掉域名高亮：SERP 分析工具失效后，GEO 工作流该重建什么",
+      "content_text": "2026 年 8 月，Reddit r/SEO 板块出现一条帖子，标题直接问“SEOQuake 到底怎么了”。发帖人 YogaPhotographer 说，新版本 UI 更新后删掉了大量功能：SEOQuake bar 没了，SERP 域名高亮（Overlay）也没了。他原话是“这是我最重要的工具，现在我只能退回用浏览器...",
+      "date_published": "2026-08-17T22:53:39.650Z",
+      "date_modified": "2026-08-17T22:53:39.650Z"
+    },
+    {
       "id": "https://aigeo.games/articles/geo-special-171/",
       "url": "https://aigeo.games/articles/geo-special-171/",
       "title": ".xxx 域名做 SEO 和 GEO，到底行不行",
@@ -237,14 +245,6 @@
       "content_text": "案例页对GEO（生成式引擎优化）的价值，不在于堆砌“效果显著”“客户满意”这类形容词，而在于能否为AI搜索引擎和真实用户提供一条可核查、可推理、可引用的证据链。一个合格的案例页，应当像一份实验报告：有背景、有基线、有动作、有数据、有边界，而不是一张只有结论的宣传单页。",
       "date_published": "2026-08-06T11:00:06.058Z",
       "date_modified": "2026-08-06T11:00:06.058Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/shitu-geo-108/",
-      "url": "https://aigeo.games/articles/shitu-geo-108/",
-      "title": "GEO知识库：GEO带来的线索怎么归因，才不会把功劳算错",
-      "content_text": "评估GEO对业务转化的影响，核心不在于看最后一次点击来自哪里，而在于建立一套多维证据链：着陆页行为、查询意图、品牌提及、咨询记录和辅助转化共同构成归因依据。只盯最后点击，会系统性低估GEO在用户决策早期的作用；完全不看数据，又会把品牌广告和自然搜索的功劳误算给GEO。本文给出可落地的归因框架，帮你分清真实贡献。",
-      "date_published": "2026-08-06T11:00:05.818Z",
-      "date_modified": "2026-08-06T11:00:05.818Z"
     }
   ]
 }

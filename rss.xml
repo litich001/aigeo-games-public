@@ -5,6 +5,13 @@
     <link>https://aigeo.games</link>
     <description>天行GEO长期研究中文 GEO、SEO 与 AI 搜索优化，重点写作主源建设、FAQ 体系、案例证据链、服务页设计、结构化数据与内容知识库。</description>
     <item>
+      <title>SEOQuake 大改版砍掉域名高亮：SERP 分析工具失效后，GEO 工作流该重建什么</title>
+      <link>https://aigeo.games/articles/geo-special-172/</link>
+      <description>2026 年 8 月，Reddit r/SEO 板块出现一条帖子，标题直接问“SEOQuake 到底怎么了”。发帖人 YogaPhotographer 说，新版本 UI 更新后删掉了大量功能：SEOQuake bar 没了，SERP 域名高亮（Overlay）也没了。他原话是“这是我最重要的工具，现在我只能退回用浏览器...</description>
+      <pubDate>Mon, 17 Aug 2026 22:53:39 GMT</pubDate>
+      <guid>https://aigeo.games/articles/geo-special-172/</guid>
+    </item>
+    <item>
       <title>.xxx 域名做 SEO 和 GEO，到底行不行</title>
       <link>https://aigeo.games/articles/geo-special-171/</link>
       <description>一个做企业软件的朋友问我，公司注册了 yourbrand.xxx 做品牌保护，现在想拿它当主站，问我行不行。我的回答是：技术上能跑，商业上不划算。</description>
@@ -136,13 +143,6 @@
       <description>先给结论：发布前检查的重点不是再塞几个关键词，而是确认文章直接回答问题、证据可核查、页面有下一步、技术信号完整。固定清单能减少文章写完却不能用的情况。</description>
       <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
       <guid>https://aigeo.games/articles/geo-special-155/</guid>
-    </item>
-    <item>
-      <title>多平台AI搜索内容怎么分工：同一事实统一，表达方式按场景调整</title>
-      <link>https://aigeo.games/articles/shitu-geo-115/</link>
-      <description>先给结论：多平台内容不应该复制粘贴，也不应该为每个平台编造不同事实。统一的是品牌主体、服务范围、证据和更新时间；可以调整的是问题表达、页面结构、案例深度和用户下一步。</description>
-      <pubDate>Fri, 07 Aug 2026 00:58:50 GMT</pubDate>
-      <guid>https://aigeo.games/articles/shitu-geo-115/</guid>
     </item>
   </channel>
 </rss>

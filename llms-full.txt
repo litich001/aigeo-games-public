@@ -22,7 +22,8 @@
 ## 专题与文章
 ### GEO专题
 URL: https://aigeo.games/columns/geo-special/
-文章数: 166
+文章数: 167
+- SEOQuake 大改版砍掉域名高亮：SERP 分析工具失效后，GEO 工作流该重建什么: https://aigeo.games/articles/geo-special-172/
 - .xxx 域名做 SEO 和 GEO，到底行不行: https://aigeo.games/articles/geo-special-171/
 - 报告外链：新站没有排名，凭什么让媒体和 AI 主动引用你: https://aigeo.games/articles/geo-special-170/
 - Backlinks 在 GEO 时代还值钱吗？链接建设的新逻辑与实操路径: https://aigeo.games/articles/geo-special-169/

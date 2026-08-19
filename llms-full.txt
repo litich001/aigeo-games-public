@@ -22,7 +22,10 @@
 ## 专题与文章
 ### GEO专题
 URL: https://aigeo.games/columns/geo-special/
-文章数: 170
+文章数: 173
+- 代理替用户聊天，网站流量正在被重新定义: https://aigeo.games/articles/geo-special-178/
+- 点击量下降42%、LinkedIn触达下降47%，SEO人却在错误的方向上发火: https://aigeo.games/articles/geo-special-177/
+- 客户觉得六个月白干了：GEO 服务商的时间账，到底该怎么算: https://aigeo.games/articles/geo-special-176/
 - Google 视频轮播展示频率下降，GEO 与 SEO 策略如何应对？: https://aigeo.games/articles/geo-special-175/
 - 作品集页面抢走目标关键词排名？问题不在页面，在信息架构: https://aigeo.games/articles/geo-special-174/
 - 概念连接图：GEO 时代的关键词差距分析升级路径: https://aigeo.games/articles/geo-special-173/

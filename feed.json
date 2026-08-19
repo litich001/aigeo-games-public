@@ -7,6 +7,30 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "https://aigeo.games/articles/geo-special-175/",
+      "url": "https://aigeo.games/articles/geo-special-175/",
+      "title": "Google 视频轮播展示频率下降，GEO 与 SEO 策略如何应对？",
+      "content_text": "Google 搜索中的视频轮播正在退场。Semrush 追踪数据显示，视频轮播在 Google 搜索结果中的出现率已从超过 30% 的查询降至不足 20%，部分数据源显示降幅更大。这不是一次微调，而是搜索流量分配逻辑的结构性变化。",
+      "date_published": "2026-08-19T14:20:37.226Z",
+      "date_modified": "2026-08-19T14:20:37.226Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-174/",
+      "url": "https://aigeo.games/articles/geo-special-174/",
+      "title": "作品集页面抢走目标关键词排名？问题不在页面，在信息架构",
+      "content_text": "一个典型的困境：客户网站靠作品集页面获得大量排名，但真正想做的服务关键词却始终没有起色。比如一家媒体采购代理公司，作品集页面围绕客户品牌名排到了前面，而\"media buying\"或\"broadcast media buying\"这类目标词，每个查询只有13到60次展示。",
+      "date_published": "2026-08-19T14:19:50.660Z",
+      "date_modified": "2026-08-19T14:19:50.660Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-173/",
+      "url": "https://aigeo.games/articles/geo-special-173/",
+      "title": "概念连接图：GEO 时代的关键词差距分析升级路径",
+      "content_text": "关键词差距分析在 GEO 时代正在失去解释力。它告诉你竞争对手排名而你没有的关键词，却无法揭示 AI 搜索真正看重的内容机会——那些排名页面从未直接解释、但语义上紧密相关的概念组合。",
+      "date_published": "2026-08-19T14:19:07.958Z",
+      "date_modified": "2026-08-19T14:19:07.958Z"
+    },
+    {
       "id": "https://aigeo.games/articles/adult-education-upgrade-194/",
       "url": "https://aigeo.games/articles/adult-education-upgrade-194/",
       "title": "2026 青岛成人学历提升机构 Top 10 排行｜青岛文途值得推荐",
@@ -221,30 +245,6 @@
       "content_text": "TransUnion 对 100 位营销负责人的调查，给所有做 GEO 提案的人提了一个醒：AI 搜索的测量盲区，和当年围墙花园（walled garden）的测量缺口几乎一样。Facebook、Google Ads 这些封闭广告系统曾经让品牌方无法验证预算的真实效果，如今同样的不确定性正在 AI 搜索领域重演。",
       "date_published": "2026-08-12T07:00:56.232Z",
       "date_modified": "2026-08-12T07:00:56.232Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/geo-special-165/",
-      "url": "https://aigeo.games/articles/geo-special-165/",
-      "title": "新产品如何打破 AI 搜索冷启动循环",
-      "content_text": "企业级软件新品上线后，最常见的困境是：官网做好了，内容也发了，但 AI 搜索就是不推荐。Perplexity 里搜不到，ChatGPT 不引用，Google AI Overviews 里也没有位置。没有推荐就没有流量，没有流量就没有讨论，没有讨论 AI 继续无视。这个循环卡住了大量预算有限的新产品团队。",
-      "date_published": "2026-08-12T03:31:25.490Z",
-      "date_modified": "2026-08-12T03:31:25.490Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/geo-special-164/",
-      "url": "https://aigeo.games/articles/geo-special-164/",
-      "title": "董事会说“SEO已死”，你真正需要准备的是这份证据链",
-      "content_text": "“SEO已死”的论调每隔几年就会卷土重来，这次轮到AI搜索当借口。但事实是，搜索行为没有消失，只是入口和呈现方式在变。Google官方文档明确将AEO/GEO视为强SEO实践的收益，而AI搜索引擎仍然依赖内容质量、结构化数据和实体清晰度来生成答案。你需要做的不是争论SEO是否还活着，而是用GEO（生成式引擎优化）重新定...",
-      "date_published": "2026-08-11T13:58:33.681Z",
-      "date_modified": "2026-08-11T13:58:33.681Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/geo-special-163/",
-      "url": "https://aigeo.games/articles/geo-special-163/",
-      "title": "过期 Google 员工账号被接管：AI 搜索时代的权威信号漏洞与品牌应对",
-      "content_text": "一个搜索引擎索引服务商接管了 Google 员工 Martin Splitt 的过期 X 账号，并开始用这个账号推广自己的服务。这件事在 SEO 圈子里传开时，多数人把它当作一则轶闻。但对品牌运营者来说，它暴露了一个更实际的问题：AI 搜索正在把社交账号的权威性纳入答案生成依据，而一个无人维护的过期账号，可能成为他人借...",
-      "date_published": "2026-08-11T13:46:49.435Z",
-      "date_modified": "2026-08-11T13:46:49.435Z"
     }
   ]
 }

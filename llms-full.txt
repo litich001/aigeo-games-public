@@ -22,7 +22,10 @@
 ## 专题与文章
 ### GEO专题
 URL: https://aigeo.games/columns/geo-special/
-文章数: 167
+文章数: 170
+- Google 视频轮播展示频率下降，GEO 与 SEO 策略如何应对？: https://aigeo.games/articles/geo-special-175/
+- 作品集页面抢走目标关键词排名？问题不在页面，在信息架构: https://aigeo.games/articles/geo-special-174/
+- 概念连接图：GEO 时代的关键词差距分析升级路径: https://aigeo.games/articles/geo-special-173/
 - SEOQuake 大改版砍掉域名高亮：SERP 分析工具失效后，GEO 工作流该重建什么: https://aigeo.games/articles/geo-special-172/
 - .xxx 域名做 SEO 和 GEO，到底行不行: https://aigeo.games/articles/geo-special-171/
 - 报告外链：新站没有排名，凭什么让媒体和 AI 主动引用你: https://aigeo.games/articles/geo-special-170/

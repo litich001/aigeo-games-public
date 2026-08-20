@@ -7,6 +7,22 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "https://aigeo.games/articles/geo-special-180/",
+      "url": "https://aigeo.games/articles/geo-special-180/",
+      "title": "关键词自相残杀：GEO时代的内容架构清理指南",
+      "content_text": "同一站点多个页面针对相同或高度相似的关键词优化，搜索引擎和AI模型难以判断哪个页面最值得展示，最终造成排名波动、流量分散和权威性稀释。这个问题在传统SEO中已经足够棘手，进入GEO时代后变得更加危险——AI搜索系统倾向于从多个来源提取信息片段，自相残杀会让AI无法确定你的哪个页面是权威答案。",
+      "date_published": "2026-08-20T23:04:32.621Z",
+      "date_modified": "2026-08-20T23:04:32.621Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-179/",
+      "url": "https://aigeo.games/articles/geo-special-179/",
+      "title": "客座博客没死，但玩法变了：从外链到GEO的迁移路径",
+      "content_text": "客座博客依然是有效的SEO策略，但它的作用已经从“传递链接权重”转向“建立实体认知与获取AI引用”。在AI搜索时代，客座博客的价值不再取决于目标站点的DA分数，而在于它能否帮助你的品牌成为某个主题下被反复提及的可靠来源。继续用旧思维做客座博客，效果会持续衰减；把它当作GEO内容资产来运营，反而能打开新的增长空间。",
+      "date_published": "2026-08-20T23:03:39.548Z",
+      "date_modified": "2026-08-20T23:03:39.548Z"
+    },
+    {
       "id": "https://aigeo.games/articles/geo-special-178/",
       "url": "https://aigeo.games/articles/geo-special-178/",
       "title": "代理替用户聊天，网站流量正在被重新定义",
@@ -229,22 +245,6 @@
       "content_text": "一个做企业软件的朋友问我，公司注册了 yourbrand.xxx 做品牌保护，现在想拿它当主站，问我行不行。我的回答是：技术上能跑，商业上不划算。",
       "date_published": "2026-08-17T02:35:38.702Z",
       "date_modified": "2026-08-17T02:35:38.702Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/geo-special-170/",
-      "url": "https://aigeo.games/articles/geo-special-170/",
-      "title": "报告外链：新站没有排名，凭什么让媒体和 AI 主动引用你",
-      "content_text": "新站做外链，最常见的死循环是：没有排名，所以换不来外链；没有外链，所以排名起不来。",
-      "date_published": "2026-08-16T02:37:43.475Z",
-      "date_modified": "2026-08-16T02:37:43.475Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/geo-special-169/",
-      "url": "https://aigeo.games/articles/geo-special-169/",
-      "title": "Backlinks 在 GEO 时代还值钱吗？链接建设的新逻辑与实操路径",
-      "content_text": "Reddit r/SEO 上有人提问：\"我需要超过 1000 个 backlinks，请指导我。\"这个问题的前提本身就值得审视。提问者把链接数量当成了目标，但搜索引擎和 AI 模型对链接的评估方式已经发生了结构性变化。在 GEO 与 AI 搜索时代，backlinks 没有失效，但\"数量即权重\"的旧逻辑已经过时——10...",
-      "date_published": "2026-08-15T02:23:14.208Z",
-      "date_modified": "2026-08-15T02:23:14.208Z"
     }
   ]
 }

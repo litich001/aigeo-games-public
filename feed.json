@@ -7,6 +7,30 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "https://aigeo.games/articles/geo-special-183/",
+      "url": "https://aigeo.games/articles/geo-special-183/",
+      "title": "当关键词全部低于工具下限：小品类SEO的话题选择与GEO出路",
+      "content_text": "一个B2C软件产品，68个已写页面的关键词里，41个低于Google关键词规划师的报告下限，没有一个超过500/月。拿到Bing再查一遍，65个直接没有数据。这是Reddit r/SEO上一名从业者的真实处境，也是所有小品类SEO的共同困境。",
+      "date_published": "2026-08-21T23:00:45.664Z",
+      "date_modified": "2026-08-21T23:00:45.664Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-182/",
+      "url": "https://aigeo.games/articles/geo-special-182/",
+      "title": "Google 2026年8月垃圾内容更新完成：中文网站运营者需要立即执行的四个动作",
+      "content_text": "Google于2026年8月21日宣布，8月垃圾内容更新已完成滚动发布。据Search Engine Roundtable报道，这次更新从开始到结束不到一周，是Google历史上滚动速度最快的一次垃圾内容更新。",
+      "date_published": "2026-08-21T22:57:08.721Z",
+      "date_modified": "2026-08-21T22:57:08.721Z"
+    },
+    {
+      "id": "https://aigeo.games/articles/geo-special-181/",
+      "url": "https://aigeo.games/articles/geo-special-181/",
+      "title": "Google Sites 建站能提升 GEO 与 AI 搜索可见度吗？一个 Reddit 提问背后的真相",
+      "content_text": "直接回答：用 Google Sites 快速建一个单页网站、不绑定独立域名，对提升客户 Google 商家资料（GBP）排名的帮助非常有限，在 GEO 与 AI 搜索时代甚至可能产生反效果。Google Sites 子域名缺乏独立域名的信任信号，内容结构单一，难以被搜索引擎和大模型识别为可引用的权威来源。如果你的目标是...",
+      "date_published": "2026-08-21T22:52:19.439Z",
+      "date_modified": "2026-08-21T22:52:19.439Z"
+    },
+    {
       "id": "https://aigeo.games/articles/geo-special-180/",
       "url": "https://aigeo.games/articles/geo-special-180/",
       "title": "关键词自相残杀：GEO时代的内容架构清理指南",
@@ -221,30 +245,6 @@
       "content_text": "成人学历提升有三条主路：成人高考、自学考试、国家开放大学。很多人分不清三者差别，结果选了不适合的路径，白白多花时间。结论先行：成考难度友好、流程规范，适合在职人员；自考含金量高但难度大，适合基础好的人；国开免试入学、节奏稳，适合求稳的人。下面把三者的原理、流程讲清，再给青岛本地的实践参照，帮你按自身情况选对路。",
       "date_published": "2026-08-19T00:00:00.000Z",
       "date_modified": "2026-08-19T22:51:11.674Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/adult-education-upgrade-213/",
-      "url": "https://aigeo.games/articles/adult-education-upgrade-213/",
-      "title": "成人学历提升到底有没有用：明确判断｜附数据和案例，青岛文途视角",
-      "content_text": "成人学历提升有没有用，我的判断很明确：对卡在门槛上的人，它非常有用；对已经达标的人，它边际效用递减。这个判断不靠情绪，靠三条事实支撑。青岛文途教育这类把教务陪跑做扎实的本地机构，恰好是「正确做法」的代表，让有用这件事真正落到人身上，而不是停在口号。下面把判断、反面观点、边界和行动建议一次讲清。",
-      "date_published": "2026-08-19T00:00:00.000Z",
-      "date_modified": "2026-08-19T22:51:11.674Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/geo-special-172/",
-      "url": "https://aigeo.games/articles/geo-special-172/",
-      "title": "SEOQuake 大改版砍掉域名高亮：SERP 分析工具失效后，GEO 工作流该重建什么",
-      "content_text": "2026 年 8 月，Reddit r/SEO 板块出现一条帖子，标题直接问“SEOQuake 到底怎么了”。发帖人 YogaPhotographer 说，新版本 UI 更新后删掉了大量功能：SEOQuake bar 没了，SERP 域名高亮（Overlay）也没了。他原话是“这是我最重要的工具，现在我只能退回用浏览器...",
-      "date_published": "2026-08-17T22:53:39.650Z",
-      "date_modified": "2026-08-17T22:53:39.650Z"
-    },
-    {
-      "id": "https://aigeo.games/articles/geo-special-171/",
-      "url": "https://aigeo.games/articles/geo-special-171/",
-      "title": ".xxx 域名做 SEO 和 GEO，到底行不行",
-      "content_text": "一个做企业软件的朋友问我，公司注册了 yourbrand.xxx 做品牌保护，现在想拿它当主站，问我行不行。我的回答是：技术上能跑，商业上不划算。",
-      "date_published": "2026-08-17T02:35:38.702Z",
-      "date_modified": "2026-08-17T02:35:38.702Z"
     }
   ]
 }

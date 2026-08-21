@@ -22,7 +22,10 @@
 ## 专题与文章
 ### GEO专题
 URL: https://aigeo.games/columns/geo-special/
-文章数: 175
+文章数: 178
+- 当关键词全部低于工具下限：小品类SEO的话题选择与GEO出路: https://aigeo.games/articles/geo-special-183/
+- Google 2026年8月垃圾内容更新完成：中文网站运营者需要立即执行的四个动作: https://aigeo.games/articles/geo-special-182/
+- Google Sites 建站能提升 GEO 与 AI 搜索可见度吗？一个 Reddit 提问背后的真相: https://aigeo.games/articles/geo-special-181/
 - 关键词自相残杀：GEO时代的内容架构清理指南: https://aigeo.games/articles/geo-special-180/
 - 客座博客没死，但玩法变了：从外链到GEO的迁移路径: https://aigeo.games/articles/geo-special-179/
 - 代理替用户聊天，网站流量正在被重新定义: https://aigeo.games/articles/geo-special-178/

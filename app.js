@@ -75,7 +75,7 @@
             ${renderColumnIcon(column)}
             <span class="meta-chip-text">${escapeHtml(column.industry || column.name)}</span>
           </span>
-          <span class="meta-chip">${icon("article")}<span>${articles.length} 篇</span></span>
+          <span class="meta-chip">${icon("article")}<span>${column.articleCount} 篇</span></span>
         </div>
         <a class="title-link" href="${createColumnUrl(basePath, column.slug)}">
           <h3>${escapeHtml(column.name)}</h3>
@@ -108,13 +108,14 @@
 
   function updateHeroStats(columns) {
     const allArticles = columns.flatMap((column) => SiteDataService.getArticlesByColumn(column.slug));
+    const articleCount = columns.reduce((total, column) => total + (Number(column.articleCount) || 0), 0);
     const categoryCount = new Set(allArticles.map((article) => article.category).filter(Boolean)).size;
 
     if (elements.heroColumnCount) {
       elements.heroColumnCount.textContent = String(columns.length).padStart(2, "0");
     }
     if (elements.heroArticleCount) {
-      elements.heroArticleCount.textContent = String(allArticles.length).padStart(2, "0");
+      elements.heroArticleCount.textContent = String(articleCount).padStart(2, "0");
     }
     if (elements.heroCategoryCount) {
       elements.heroCategoryCount.textContent = String(categoryCount).padStart(2, "0");
@@ -130,7 +131,7 @@
 
     elements.featuredTopicCard.href = createColumnUrl(basePath, geoColumn.slug);
     if (elements.featuredTopicCount) {
-      elements.featuredTopicCount.textContent = `${geoArticles.length} 篇`;
+      elements.featuredTopicCount.textContent = `${geoColumn.articleCount} 篇`;
     }
     if (elements.featuredTopicText && !elements.featuredTopicText.textContent.trim()) {
       elements.featuredTopicText.textContent =

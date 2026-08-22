@@ -1,17 +1,12 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <title>Tianxing GEO Icon</title>
-  <g transform="translate(14 10)">
-    <path d="M108 22C66 22 31 52 21 92" stroke="#123A78" stroke-width="17" stroke-linecap="round"/>
-    <path d="M25 160C43 197 80 222 122 222C170 222 212 189 224 143" stroke="#123A78" stroke-width="17" stroke-linecap="round"/>
-    <path d="M17 168C49 178 85 176 117 164C153 151 183 124 201 88" stroke="#D6A13C" stroke-width="18" stroke-linecap="round"/>
-    <path d="M188 97L201 88L204 105" stroke="#D6A13C" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M62 191C71 160 97 136 129 129C160 122 191 132 214 154" stroke="#123A78" stroke-width="9" stroke-linecap="round" opacity="0.86"/>
-    <path d="M92 205C93 169 106 141 132 120" stroke="#123A78" stroke-width="9" stroke-linecap="round" opacity="0.86"/>
-    <path d="M140 206C139 174 151 149 175 131" stroke="#123A78" stroke-width="9" stroke-linecap="round" opacity="0.86"/>
-    <path d="M58 165H198" stroke="#123A78" stroke-width="9" stroke-linecap="round" opacity="0.86"/>
-    <path d="M109 16L119 84L186 95L120 106L109 174L98 106L31 95L98 84L109 16Z" fill="#123A78"/>
-    <path d="M109 31L115 88L172 95L115 102L109 159L103 102L46 95L103 88L109 31Z" fill="#D6A13C"/>
-    <circle cx="109" cy="95" r="13" fill="#123A78" stroke="#F7FAFF" stroke-width="6"/>
-    <path d="M197 47L203 61L217 67L203 73L197 87L191 73L177 67L191 61L197 47Z" fill="#D6A13C"/>
-  </g>
+  <title>天行GEO 小哲IP图标</title>
+  <circle cx="128" cy="128" r="116" fill="#F7F3EA" stroke="#071A36" stroke-width="12"/>
+  <path d="M57 112C59 65 87 42 128 42c43 0 73 27 74 71-13-8-23-22-28-40-13 18-30 27-51 27-26 0-46 8-66 12Z" fill="#071A36"/>
+  <path d="M67 119c0-42 24-65 61-65 38 0 62 24 62 65v17c0 44-25 72-62 72-36 0-61-28-61-72v-17Z" fill="#FFD9B5"/>
+  <path d="M64 117c8-9 16-21 19-35 16 14 40 18 69 10 17-5 29-14 37-27 10 15 16 33 16 52l-15-2c-5-10-13-18-22-25-26 18-62 23-88 7-3 8-7 14-13 20h-3Z" fill="#071A36"/>
+  <rect x="73" y="112" width="49" height="37" rx="18.5" stroke="#071A36" stroke-width="9"/><rect x="134" y="112" width="49" height="37" rx="18.5" stroke="#071A36" stroke-width="9"/>
+  <path d="M122 128h12" stroke="#071A36" stroke-width="9" stroke-linecap="round"/><circle cx="98" cy="130" r="6" fill="#071A36"/><circle cx="159" cy="130" r="6" fill="#071A36"/>
+  <path d="M111 168c10 9 24 9 34 0" stroke="#071A36" stroke-width="7" stroke-linecap="round"/>
+  <path d="M88 205c12-10 25-15 40-15s28 5 40 15l13 29H75l13-29Z" fill="#1F5EFF"/><path d="m128 192 12 13-12 16-12-16 12-13Z" fill="#FF9B21"/>
+  <path d="m202 32 6 15 15 6-15 6-6 15-6-15-15-6 15-6 6-15Z" fill="#FF9B21"/>
 </svg>

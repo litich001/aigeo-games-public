@@ -187,6 +187,7 @@
     }
 
     injectHomepageSchema(site, columns);
+
   }
 
   document.addEventListener("DOMContentLoaded", init);
